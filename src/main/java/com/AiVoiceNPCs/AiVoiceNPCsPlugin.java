@@ -13,6 +13,11 @@ import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 
+import javax.inject.Inject;
+import java.io.IOException;
+
+import static net.runelite.http.api.RuneLiteAPI.GSON;
+
 @Slf4j
 //Plugin Menu Name
 @PluginDescriptor(
@@ -25,13 +30,16 @@ public class AiVoiceNPCsPlugin extends Plugin
 	@Inject
 	private Client client;
 
+	private ApiCaller apiCaller;
+
 	@Inject
 	private AiVoiceNPCsConfig config;
 
 	@Override
 	protected void startUp() throws Exception
 	{
-
+		// Create an instance of the ApiCaller class
+		apiCaller = new ApiCaller();
 	}
 
 	@Override
@@ -47,7 +55,21 @@ public class AiVoiceNPCsPlugin extends Plugin
 		{
 			String apiKey = config.getApiKey();
 			if (!apiKey.isEmpty()) {
-				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Example says " + config.getApiKey(), null);
+				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Your AI API Key: " + config.getApiKey(), null);
+
+				// Make an API call to get available voices
+				String apiUrl = "https://api.elevenlabs.io/v1/voices";
+				try {
+					String response = apiCaller.callApi(apiUrl, apiKey);
+
+					// Parse the API response using ApiResponseParser class and Look up the voice_id for the selected name
+					ApiResponseParser parser = new ApiResponseParser();
+					String voiceId = parser.getVoiceIdForName(response, config.getVoice().toString());
+					System.out.println("Voice ID for " + config.getVoice() + ": " + voiceId);
+
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
 			} else {
 				log.info("No API Key provided");
 			}
@@ -57,7 +79,6 @@ public class AiVoiceNPCsPlugin extends Plugin
 	@Subscribe
 	public void onChatMessage(ChatMessage chatMessage)
 	{
-		String voice = config.getVoice().toString();
 		ChatMessageType messageType = chatMessage.getType();
 		String messageContents = chatMessage.getMessage();
 
@@ -69,7 +90,6 @@ public class AiVoiceNPCsPlugin extends Plugin
 			String sender = parts[0];
 			String message = parts[1];
 
-			log.info("Voice Selected: " + voice);
 			log.info("Received dialog message from " + sender);
 			log.info("Message: " + message);
 		}
