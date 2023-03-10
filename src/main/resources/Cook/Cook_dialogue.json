@@ -1,0 +1,343 @@
+[
+  {
+    "npc": "Cook",
+    "dialogue": [
+      {
+        "text": "What am I to do?",
+        "audio_file": "e56ab14b6bdb9f1e506334f5d0ac06ff.wav"
+      },
+      {
+        "text": "Oh dear, oh dear, oh dear, I'm in a terrible terrible mess! It's the Duke's birthday today, and I should be making him a lovely big birthday cake.",
+        "audio_file": "b01ad1250514f8e1093fe907129ae35b.wav"
+      },
+      {
+        "text": "I've forgotten to buy the ingredients. I'll never get them in time now. He'll sack me! What will I do? I have four children and a goat to look after. Would you help me? Please?",
+        "audio_file": "452f3d0bed65b0e4eb1fa8814876abcf.wav"
+      },
+      {
+        "text": "Oh thank you, thank you. I need milk, an egg and flour. I'd be very grateful if you can get them for me.",
+        "audio_file": "8da8f71069270200c92c2cc65a61adb8.wav"
+      },
+      {
+        "text": "That's an odd coincidence... Were you planning on making a cake too?",
+        "audio_file": "76aa7054e20fbef82c1248473c8d417c.wav"
+      },
+      {
+        "text": "Well thank you! Hand them over, please.",
+        "audio_file": "f4ef745c633317ddd12d50733b6e278d.wav"
+      },
+      {
+        "text": "You've brought me everything I need! I am saved! Thank you!",
+        "audio_file": "bae316e29c75ee7e743998c7ab908547.wav"
+      },
+      {
+        "text": "I'm afraid not, only the big cheeses get to dine with the Duke.",
+        "audio_file": "1c69ff7c919d584f3617158fc4fea04d.wav"
+      },
+      {
+        "text": "Maybe, but I won't be holding my breath.",
+        "audio_file": "1960309edd67ef77d302eeae70a5ea37.wav"
+      },
+      {
+        "text": "There is a Mill fairly close, go North and then West. Mill Lane Mill is just off the road to Draynor. I usually get my flour from there.",
+        "audio_file": "102b21ff2a6bed5eba427481e0f8a3e3.wav"
+      },
+      {
+        "text": "Talk to Millie, she'll help, she's a lovely girl and a fine Miller. Make sure you take a pot with you for the flour though, you've got one on you already.",
+        "audio_file": "0ffcfd36cc19972e2033a968f54c271f.wav"
+      },
+      {
+        "text": "Talk to Millie, she'll help, she's a lovely girl and a fine Miller. Make sure you take a pot with you for the flour though, there should be one on the table in here.",
+        "audio_file": "c581add4d32d7f45a37696b1b5a97757.wav"
+      },
+      {
+        "text": "There is a cattle field on the other side of the river, just across the road from the Groats' Farm.",
+        "audio_file": "341f39d7573eeafc26da3220101bae3d.wav"
+      },
+      {
+        "text": "Talk to Gillie Groats, she looks after the Dairy cows - she'll tell you everything you need to know about milking cows!",
+        "audio_file": "81541f31ee1b85b5e64b73ce5af5fcd7.wav"
+      },
+      {
+        "text": "You'll need an empty bucket for the milk itself. I do see you've got a bucket with you already luckily!",
+        "audio_file": "99444267a30f4c0c5b842593138507c8.wav"
+      },
+      {
+        "text": "You'll need an empty bucket for the milk itself. The general store just north of the castle will sell you one for a couple of coins.",
+        "audio_file": "539d34ea63dea9056e661356931ca4c7.wav"
+      },
+      {
+        "text": "I normally get my eggs from the Groats' farm, on the other side of the river.",
+        "audio_file": "e5849e9cb3b78ce60a13d5d606ab139d.wav"
+      },
+      {
+        "text": "But any chicken should lay eggs.",
+        "audio_file": "8e15bc1f37a3e86c4206152b72ae3fbc.wav"
+      },
+      {
+        "text": "Fine. I always knew you Adventurer types were callous beasts. Go on your merry way!",
+        "audio_file": "f1a3e56951c1b0a743e061cc89207dec.wav"
+      },
+      {
+        "text": "*sniff* Don't talk to me about cakes...",
+        "audio_file": "33a8cdc448e80fcbb0cf65b260bac39d.wav"
+      },
+      {
+        "text": "No, I'm not. The world is caving in around me - I am overcome by dark feelings of impending doom.",
+        "audio_file": "118d77907a637b84c626f8b5a568c02b.wav"
+      },
+      {
+        "text": "No, that's the worst thing I could do. I'd get in terrible trouble.",
+        "audio_file": "b655ebad6dfb371d81516b96e776d281.wav"
+      },
+      {
+        "text": "That would be nice, but the Duke doesn't allow holidays for core staff.",
+        "audio_file": "72ec573c6b0c880ee39b23b879a529b7.wav"
+      },
+      {
+        "text": "My wife gets sea sick, and I have an irrational fear of eyepatches. I don't see it working myself.",
+        "audio_file": "92cf9d9b0c252953b9e91a5c5ddb82f1.wav"
+      },
+      {
+        "text": "I know I'm doomed.",
+        "audio_file": "283d56bf77068beaed289144aafde084.wav"
+      },
+      {
+        "text": "Err thank you. It's a pretty ordinary cooks hat really.",
+        "audio_file": "bdb5133010c4d3e00056c7fd1658dfa9.wav"
+      },
+      {
+        "text": "Its all standard cook's issue uniform...",
+        "audio_file": "ecd3e3f0a5657002b9b044a2902dd5ae.wav"
+      },
+      {
+        "text": "I am a real cook! I haven't got time to be chatting about Culinary Fashion. I am in desperate need of help!",
+        "audio_file": "9c9a073e009264d989db95c08788cf1b.wav"
+      },
+      {
+        "text": "How are you getting on with finding the ingredients?",
+        "audio_file": "041cda0134193a869afab490dfc66a65.wav"
+      },
+      {
+        "text": "Please get the ingredients quickly. I'm running out of time! The Duke will throw me into the streets!",
+        "audio_file": "61b9b1724dc68516c3bdd8e83de04b6d.wav"
+      },
+      {
+        "text": "Thanks for the ingredients you have got so far. Please get the rest quickly - I'm running out of time! The Duke will throw me into the streets!",
+        "audio_file": "15b2da2cb5c9e60028a7258a15293b2d.wav"
+      },
+      {
+        "text": "How is the adventuring going, my friend?",
+        "audio_file": "e85265db1593058dbe4e60b9f1a422ce.wav"
+      },
+      {
+        "text": "I don't have anything for you to do right now, sorry.",
+        "audio_file": "9ee73a17d7afeb796c9695969238259b.wav"
+      },
+      {
+        "text": "Glad to hear it.",
+        "audio_file": "8537b31399753f75048a7e0d5372707d.wav"
+      },
+      {
+        "text": "Ah well, at least you keep coming back to life!",
+        "audio_file": "496b68c058a3aa4143243356e77f321c.wav"
+      },
+      {
+        "text": "Go ahead - it's a very good range. It's easier to use than most other ranges.",
+        "audio_file": "78287cd837275cdbc6110b9e3f744a46.wav"
+      },
+      {
+        "text": "Its called the Cook-o-matic 100. It uses a combination of state of the art temperature regulation and magic.",
+        "audio_file": "8342520a0ff0fe6691d96fb73a7c973b.wav"
+      },
+      {
+        "text": "Well, that's what the salesman told us anyway...",
+        "audio_file": "64d3ffabbd5b47184737cf57cfcc4571.wav"
+      },
+      {
+        "text": "Hey, who said you could use that?",
+        "audio_file": "a1c5b172f382874c275afb94ec62cfef.wav"
+      },
+      {
+        "text": "I am listening.",
+        "audio_file": "95aa5133d2695a9ccfa2d7866c9f3822.wav"
+      },
+      {
+        "text": "I may have some lying around the kitchen, I would gladly give you some milk for the Easter Bunny.",
+        "audio_file": "fba0b841bdc4bec0b1df7bbdc4ef98d4.wav"
+      },
+      {
+        "text": "But first you must answer a riddle. If you get it right, I will give you some Hosidius milk.",
+        "audio_file": "f15576b7c9b5acc04641cf524e848def.wav"
+      },
+      {
+        "text": "Are you ready to answer my riddle?",
+        "audio_file": "0cd1358ac8c270ffae302bddca85e534.wav"
+      },
+      {
+        "text": "I leave my home only once a year, but do not give any Christmas cheer. Who am I?",
+        "audio_file": "118ea6e1f4393be8a1690918fb8af2f0.wav"
+      },
+      {
+        "text": "I am sorry but that is not quite right.",
+        "audio_file": "ed8a4c0c40921de2b6b9925c3da56148.wav"
+      },
+      {
+        "text": "Talk to me when you're ready to try again.",
+        "audio_file": "e32a604d4ec8e7dfcad936f8370436bc.wav"
+      },
+      {
+        "text": "Congratulations, that's the right answer.",
+        "audio_file": "45ad8b63af89d36dea7561e6e939b20b.wav"
+      },
+      {
+        "text": "Here is the Hosidius milk I promised.",
+        "audio_file": "553cf142c9352c2c411e4a3e9bd8547e.wav"
+      },
+      {
+        "text": "Filling me with eggs is bad... but I'll make a case for it.",
+        "audio_file": "e46365b53ee408829ed4d43ff4b63110.wav"
+      },
+      {
+        "text": "When dark and bitter, drink me warm in the winter.",
+        "audio_file": "b6b3ee594e3adaea72c7c008824781e1.wav"
+      },
+      {
+        "text": "I am round, yet not a perfect sphere. I can be cracked and not have anything inside. What am I?",
+        "audio_file": "43517ab579764715e78d696b03577380.wav"
+      },
+      {
+        "text": "You should probably go and give the milk to the Easter Bunny, hop to it. Don't want to keep the Easter Bunny waiting.",
+        "audio_file": "a8344166b7a7eb70f8309a7e8cdb831f.wav"
+      },
+      {
+        "text": "Of course I do, try not to spill it this time.",
+        "audio_file": "6c91bdfdb4a087d7e663c8bbafd808ca.wav"
+      },
+      {
+        "text": "Well done.",
+        "audio_file": "62a028a41f657dd4c108832d414b3d6c.wav"
+      },
+      {
+        "text": "I've always wondered how many cannons the castle has. Could you find out for me?",
+        "audio_file": "abaa81e7b32a559be4f04d696ede01de.wav"
+      },
+      {
+        "text": "Please tell me how many cannons there are.",
+        "audio_file": "d9d1b2d2a0c723e49b54ee3c906d6c51.wav"
+      },
+      {
+        "text": "Hmm, I don't think that's right.",
+        "audio_file": "e6ba3e1c2eaad93dffc92d50313ae99f.wav"
+      },
+      {
+        "text": "Cheers!",
+        "audio_file": "f937d11dd8f86a11d6fb880f843397c1.wav"
+      },
+      {
+        "text": "Oh, what a cute bunny! I didn't realize it was Easter already!",
+        "audio_file": "9ef2ac7283b038f23a14aca5b288254e.wav"
+      },
+      {
+        "text": "Hmm... Well, I do have a large collection of eggs, but most of them are regular old chicken eggs for making cakes.",
+        "audio_file": "be562532bbb21901f22841e480d3f976.wav"
+      },
+      {
+        "text": "Though come to think of it, I might have something...",
+        "audio_file": "3956a98a4cd2e4e7eb7893a510be76a1.wav"
+      },
+      {
+        "text": "I have a... 'special' collection of eggs that I keep in the... well... back of my cupboards for very... 'special' occasions.",
+        "audio_file": "d89e5624fc98f4c6828de9cb88b4316f.wav"
+      },
+      {
+        "text": "I don't know if this occasion is special enough, though.",
+        "audio_file": "8bf3fe8cc7183d01a457884c2c018e2c.wav"
+      },
+      {
+        "text": "Well, that's me convinced! Let me dig them out for you!",
+        "audio_file": "434ca9f344adc7d57728a4964db32dc9.wav"
+      },
+      {
+        "text": "Don't mention it!",
+        "audio_file": "efd4d8388ed9d635298ac858f418c79d.wav"
+      },
+      {
+        "text": "Seriously, don't mention it.",
+        "audio_file": "c9ee3a0d0657a68ee72e449fe122cd80.wav"
+      },
+      {
+        "text": "There's a sheep pen not too far north of here. You could get some fresh wool if you wanted.",
+        "audio_file": "2b94b3e45d24f6f35716a98b6ebc356a.wav"
+      },
+      {
+        "text": "Yes, go to the sheep pen and out of my kitchen...",
+        "audio_file": "5c269acbf8ffa3655d364d23a314474d.wav"
+      },
+      {
+        "text": "Oh, you're still here.",
+        "audio_file": "15acd9cf3b42a4c4adfca26335f2db7a.wav"
+      },
+      {
+        "text": "Didn't you say you were off to the sheep pen north of here?",
+        "audio_file": "1eb08e7ce255e7064e5e4796a620f73a.wav"
+      },
+      {
+        "text": "Actually, while you're still here, there's something else you can do.",
+        "audio_file": "1647ce5ccf1b54d1c0512c0854b061dd.wav"
+      },
+      {
+        "text": "It's the Duke's birthday soon, and I'm running low on ingredients.",
+        "audio_file": "d4bbd2d9b17c6327b43c3bd92dad490a.wav"
+      },
+      {
+        "text": "Ahem... forget I said anything.",
+        "audio_file": "1dfc08eb1db63ec115dc4d91a652d985.wav"
+      },
+      {
+        "text": "I... well yes, but how else am I supposed to train cooking?",
+        "audio_file": "406d5710e699885122f40f749c56a247.wav"
+      },
+      {
+        "text": "And have the entire castle smelling like Port Sarim? No thank you!",
+        "audio_file": "ee246e298209caf6bcb60972c29b4575.wav"
+      },
+      {
+        "text": "Well, he wanted some funny looking eggs, and they were the funniest I had.",
+        "audio_file": "a9ac7a122a86f7eace9fbf4b9f1b4c47.wav"
+      },
+      {
+        "text": "Just be thankful he didn't ask for some fancy milk instead!",
+        "audio_file": "8a1241941d5c0372788fd948cfc951e1.wav"
+      },
+      {
+        "text": "I think he said he was going to the sheep pen north of here.",
+        "audio_file": "3f413615afda6b49bb1c9be472fa79d7.wav"
+      },
+      {
+        "text": "How should I know? You should check in Draynor, maybe you'll find him there.",
+        "audio_file": "1171163ab32ba0482e555d22224f258a.wav"
+      },
+      {
+        "text": "You were seriously great when you defeated the Culinaromancer! I can't believe I nearly caused all of those people to be killed! So how is the adventuring going now?",
+        "audio_file": "af0e91ea6a4f25035c9a50c76f9b47fb.wav"
+      },
+      {
+        "text": "Patty is likely to know more than me, try chatting to her!",
+        "audio_file": "2e792735553b64aceaa2d6bc98249064.wav"
+      },
+      {
+        "text": "Ooh dear, yes I do! It's the Duke of Lumbridge's birthday today, and I need to bake him a cake!",
+        "audio_file": "175cb9a9b6568c3962338fa0081834cd.wav"
+      },
+      {
+        "text": "I need you to bring me some eggs, some flour, some milk and a chocolate bar...",
+        "audio_file": "c4174b8e53e0f30e2ebcf7cd0c103e92.wav"
+      },
+      {
+        "text": "Nah, not really, I'm just messing with you! Thanks for all your help, I know I can count on you again in the future!",
+        "audio_file": "4f0a459068c54178c0e9a35af1ffeada.wav"
+      }
+    ]
+  }
+]

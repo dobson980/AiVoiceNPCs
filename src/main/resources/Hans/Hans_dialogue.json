@@ -1,0 +1,75 @@
+[
+  {
+    "npc": "Hans",
+    "dialogue": [
+      {
+        "text": "Hello. What are you doing here?",
+        "audio_file": "8e4cd41c606a7d8def221682384bfab7.wav"
+      },
+      {
+        "text": "Who, the Duke? He's in his study, on the first floor.",
+        "audio_file": "076dc809447b1d0afdb9b7ab90d97f3a.wav"
+      },
+      {
+        "text": "Help! Help!",
+        "audio_file": "3a59cbf5ab48ef7284247d571c3e074d.wav"
+      },
+      {
+        "text": "You are in Lumbridge Castle.",
+        "audio_file": "b2a3e9da17977f6ea994ee72e9e241d8.wav"
+      },
+      {
+        "text": "Ahh, I see all the newcomers arriving in Lumbridge, fresh-faced and eager for adventure. I remember you...",
+        "audio_file": "e07e5f2e01e603a73b0525155e4da636.wav"
+      },
+      {
+        "text": "You've spent [amount] days, [amount] hours, [amount] minutes in the world since you arrived [amount] days ago.",
+        "audio_file": "5869731de4abf09aa04d99110f31cdb3.wav"
+      },
+      {
+        "text": "Oooh! Who are you?",
+        "audio_file": "ed9bcd36d57469ddbbf460ea9d68d152.wav"
+      },
+      {
+        "text": "Aaaaargh! Run away, run away!",
+        "audio_file": "0347831dba725a6fb07b5df97459bcf7.wav"
+      },
+      {
+        "text": "Ummm... a little green hat? Yes, a seagull picked it up and flew off.",
+        "audio_file": "be71d7f1916ede8186f43a15e9258c4c.wav"
+      },
+      {
+        "text": "So it seems! I'm afraid I didn't happen to see which way it went.",
+        "audio_file": "c741e886d7a70db47495d00a1cc84820.wav"
+      },
+      {
+        "text": "Oh my aching feet! A chair! Just what I've been needing! I'm going to go sit by the fountain, so pretty this time of year.",
+        "audio_file": "787bad6bdb7bb156c1ff78900a2fb802.wav"
+      },
+      {
+        "text": "Well done.",
+        "audio_file": "62a028a41f657dd4c108832d414b3d6c.wav"
+      },
+      {
+        "text": "Well done, here you go.",
+        "audio_file": "7f96bfc6b09170e39ed03e2788f79045.wav"
+      },
+      {
+        "text": "Of course *hic* I love a good *hic* party.",
+        "audio_file": "7fae0a7e85a8633a24c8676396696f3b.wav"
+      },
+      {
+        "text": "I have a *hic* great party trick *hic*",
+        "audio_file": "67e6618dd2d7290b2972a7d10b7ccf85.wav"
+      },
+      {
+        "text": "Exactly *burp* that!",
+        "audio_file": "068370ce640d2aa12eda217b7b177215.wav"
+      },
+      {
+        "text": "You are in Lumbridge Castle, in the Kingdom of Misthalin. Across the river, the road leads north to Varrock, and to the west lies Draynor Village.",
+        "audio_file": "770dbee0d16dc848c7409a870d50415b.wav"
+      }
+    ]
+  }
+]

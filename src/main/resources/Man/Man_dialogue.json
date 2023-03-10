@@ -1,0 +1,251 @@
+[
+  {
+    "npc": "Man",
+    "dialogue": [
+      {
+        "text": "Not too bad, but I'm a little worried about the increase of goblins these days.",
+        "audio_file": "f7c845c8dc2612ed545153563b1d265a.wav"
+      },
+      {
+        "text": "How can I help you?",
+        "audio_file": "2673bdac54e0e6296fa3a02c9b2704ac.wav"
+      },
+      {
+        "text": "No, I have nothing I wish to get rid of. If you want to do some trading, there are plenty of shops and market stalls around though.",
+        "audio_file": "5f6796d838d7a0adfc6032f822740ba3.wav"
+      },
+      {
+        "text": "I'm sorry I can't help you there.",
+        "audio_file": "3075114d206f47d36b6c71b3dc31575a.wav"
+      },
+      {
+        "text": "I've heard there are many fearsome creatures that dwell under the ground...",
+        "audio_file": "2642093c5ac8ee2d9cab9b827f8d28ec.wav"
+      },
+      {
+        "text": "Get out of my way, I'm in a hurry!",
+        "audio_file": "1ee79519d5a2ed7fd6c0e40de041757c.wav"
+      },
+      {
+        "text": "I'm fine, how are you?",
+        "audio_file": "eab6065cd8e03ec77247847623e47284.wav"
+      },
+      {
+        "text": "Hello there! Nice weather we've been having.",
+        "audio_file": "e040cbd684e4becdab64b7833d82c60a.wav"
+      },
+      {
+        "text": "I'm very well thank you.",
+        "audio_file": "23fcb353a6095b1c197a7e274fa4a73b.wav"
+      },
+      {
+        "text": "Who are you?",
+        "audio_file": "f6c2093759842407fc533c6f8a7d1b76.wav"
+      },
+      {
+        "text": "Ah, a very noble profession.",
+        "audio_file": "5ff23915e6cb52d2fea27274189a7b6f.wav"
+      },
+      {
+        "text": "Do I know you? I'm in a hurry!",
+        "audio_file": "3fbbcf54f05849afab1307ebaa223ae7.wav"
+      },
+      {
+        "text": "I think we need a new king. The one we've got isn't very good.",
+        "audio_file": "2c5f698f97925f6f6e6b681cd122a0a7.wav"
+      },
+      {
+        "text": "Not too bad thanks.",
+        "audio_file": "57efd7d32c34f489c10f061f06a98956.wav"
+      },
+      {
+        "text": "Are you asking for a fight?",
+        "audio_file": "4b79f7d088ff6ecfd4cb63f36eeb3117.wav"
+      },
+      {
+        "text": "I'm busy right now.",
+        "audio_file": "ed37a30b9c9defe8f8fb67f6030fa290.wav"
+      },
+      {
+        "text": "Hello.",
+        "audio_file": "f9776f93ac975cd47b598e34d9242d18.wav"
+      },
+      {
+        "text": "None of your business.",
+        "audio_file": "0d9c7d659feb01b73723630690684fc0.wav"
+      },
+      {
+        "text": "No I don't have any spare change.",
+        "audio_file": "c82c3de21e27deb516093b3c8d99ff50.wav"
+      },
+      {
+        "text": "I'm a little worried - I've heard there's lots of people going about, killing citizens at random.",
+        "audio_file": "d4954ab64e85eeca972275207f7643f7.wav"
+      },
+      {
+        "text": "No, I don't want to buy anything!",
+        "audio_file": "4aaeb1a9a262e978b8c7bc6d959ec114.wav"
+      },
+      {
+        "text": "That is classified information.",
+        "audio_file": "f8312989bb6ed7ba485272e8f6c3f420.wav"
+      },
+      {
+        "text": "Have this flyer...",
+        "audio_file": "af6aa022f36fbb2419285fa3740d387e.wav"
+      },
+      {
+        "text": "Yo, wassup!",
+        "audio_file": "e5c681fd483977fb97fca07ed2fbadf9.wav"
+      },
+      {
+        "text": "Excuse me!",
+        "audio_file": "b98ff36dc04daf24e20b0a7afe79578e.wav"
+      },
+      {
+        "text": "Can't you see I'm on the toilet?",
+        "audio_file": "2d81dd0c50fe18912499ab205a5a2906.wav"
+      },
+      {
+        "text": "Yeah. A toilet.",
+        "audio_file": "7dc3e2925276d5ecc24af2d1a9d9451e.wav"
+      },
+      {
+        "text": "Get over it.",
+        "audio_file": "6e79b5809f497c9748376ae6e2f03d6d.wav"
+      },
+      {
+        "text": "What are you doing in my house?",
+        "audio_file": "ed9f3e4b5227e51acc3d8a6a3c0c0ccd.wav"
+      },
+      {
+        "text": "You're exploring my house?",
+        "audio_file": "17cbf177b4e32e8b2ffde9426a406040.wav"
+      },
+      {
+        "text": "But... why are you exploring in my house?",
+        "audio_file": "cb166a442c73ba359f2ba584ff4eac88.wav"
+      },
+      {
+        "text": "... you are very strange...",
+        "audio_file": "72ea2a677bc6ec32ede59e0218b1d7de.wav"
+      },
+      {
+        "text": "Yes, please go away now.",
+        "audio_file": "99b01ae728776ee8a47437e28a45b921.wav"
+      },
+      {
+        "text": "Good day. What brings you to this end of town?",
+        "audio_file": "78560e8eebadb13b56f82b57ce50e728.wav"
+      },
+      {
+        "text": "If you're into Mining, plenty! The dwarves have one of the largest mines in the world just under our feet. There's an entrance in the building just north-east of my house.",
+        "audio_file": "42875187609dda2b14067714bce2b2a6.wav"
+      },
+      {
+        "text": "If you'd rather enjoy yourself, there's the party room just north of here! Or you might like to climb up onto the city wall - you can get a good view of Falador from there.",
+        "audio_file": "0a4c067075099d9d4946e40e8f936f3e.wav"
+      },
+      {
+        "text": "Molten lava! MOLTEN LAVA!",
+        "audio_file": "9afe340acf1d3f9ac0ad1cb60f2026d8.wav"
+      },
+      {
+        "text": "Snakes! Snakes! Ohhhh, there are snakes!",
+        "audio_file": "8414eeb181b043c82fb9712317049f28.wav"
+      },
+      {
+        "text": "Why don't I have a 'Teleport Home to Lumbridge' button like everyone else?",
+        "audio_file": "1c21acc9149ea683ebb9223a09d3e483.wav"
+      },
+      {
+        "text": "Too many monkeys - I can't stand it!",
+        "audio_file": "5d6936a097f00429db11c6b88cf772fe.wav"
+      },
+      {
+        "text": "I should have stayed in Port Sarim.",
+        "audio_file": "f3aa90bd5ffe0332c5c0cdee3c813c77.wav"
+      },
+      {
+        "text": "So... many... trees...",
+        "audio_file": "5a3316ce9bf453925aa4b2f21868adbe.wav"
+      },
+      {
+        "text": "I can't take the heat!",
+        "audio_file": "37f7720b6401dfda249032cafc80e2e8.wav"
+      },
+      {
+        "text": "Party! Party!",
+        "audio_file": "1b2f56be64fb1d4abe12affa59d9d626.wav"
+      },
+      {
+        "text": "Something's happening in the party room!",
+        "audio_file": "91af57f6aee95dbda42c4da801a5d3a4.wav"
+      },
+      {
+        "text": "Everyone get to the party room!",
+        "audio_file": "50e2d54977af4332a57dde551137a3d0.wav"
+      },
+      {
+        "text": "What's happening in the party room?",
+        "audio_file": "c3c1c791730ddbb545fa9c8478763888.wav"
+      },
+      {
+        "text": "Someone's having a big party!",
+        "audio_file": "9cd30a81e1d299311cddbc81838e9616.wav"
+      },
+      {
+        "text": "Get to the party room NOW!",
+        "audio_file": "b27fc3984048a2d676a611e3e71fcb92.wav"
+      },
+      {
+        "text": "Get to the party room!",
+        "audio_file": "4f08c10f920b406caf6751a8d8555b2a.wav"
+      },
+      {
+        "text": "Get to the party room quick!",
+        "audio_file": "101e8549905066fb52dcee23285cfcca.wav"
+      },
+      {
+        "text": "Big value items in the party room now!",
+        "audio_file": "b7cc50a528922d297f6bfbe8c3d68aa9.wav"
+      },
+      {
+        "text": "Quick! Get to the party room!",
+        "audio_file": "a4d23120d972c586f0718c28fc2f1518.wav"
+      },
+      {
+        "text": "DON'T EAT ME!",
+        "audio_file": "95060f41b5afab34046e7e359bb68f30.wav"
+      },
+      {
+        "text": "She said she would return after the second fork.",
+        "audio_file": "41ad894483d0b7e8bd9ff8a00ca6b15d.wav"
+      },
+      {
+        "text": "You can't eat jelly with a fork. Are you mad?",
+        "audio_file": "ccb72faf05119d08a0624e1f3f20d879.wav"
+      },
+      {
+        "text": "Green tongue snakes.",
+        "audio_file": "6896df7607a7d0d621c46132331da9f8.wav"
+      },
+      {
+        "text": "Occupied!",
+        "audio_file": "efa672b3caa3aebf630899fa844cfeb0.wav"
+      },
+      {
+        "text": "I've seen that one before. It's yours now.",
+        "audio_file": "24141ffc8f31cf230436efa363509343.wav"
+      },
+      {
+        "text": "Go away. People from the outside shut us in like animals. I have nothing to say to you.",
+        "audio_file": "5dc23692f0e2e79ebabac8a52fd9516f.wav"
+      },
+      {
+        "text": "An outsider! Can you get me out of this hell hole?",
+        "audio_file": "11134aa125476e38dce7100ac1424ac7.wav"
+      }
+    ]
+  }
+]

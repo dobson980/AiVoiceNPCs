@@ -1,0 +1,655 @@
+[
+  {
+    "npc": "player",
+    "dialogue": [
+      {
+        "text": "What's wrong?",
+        "audio_file": "5e7e2961cd1a8c598d0cd1e786ea176a.wav"
+      },
+      {
+        "text": "Yes, I'll help you.",
+        "audio_file": "26b38265dc675d70f86740c85f56d176.wav"
+      },
+      {
+        "text": "I have all of those ingredients on me already!",
+        "audio_file": "d0e6f524288ac3793248eac23665a0d7.wav"
+      },
+      {
+        "text": "Not exactly. I just had an odd feeling you might be needing these ingredients. If I see a cook, I presume there's food of some kind! Lucky guess I suppose.",
+        "audio_file": "a7a47dc9ea11ac26de33481ae03d84d3.wav"
+      },
+      {
+        "text": "So do I get to go to the Duke's Party?",
+        "audio_file": "90e272a47205b18afbafacb330530ef5.wav"
+      },
+      {
+        "text": "Well, maybe one day I'll be important enough to sit on the Duke's table.",
+        "audio_file": "b69ece359e46a4d123c6a674948dc2e4.wav"
+      },
+      {
+        "text": "So where do I find these ingredients then?",
+        "audio_file": "51f54cf20c5f6446ec9129966c0f0368.wav"
+      },
+      {
+        "text": "I've got all the information I need. Thanks.",
+        "audio_file": "ebf357ccdd5ae00014cecb9256574a8a.wav"
+      },
+      {
+        "text": "Actually, I know where to find this stuff.",
+        "audio_file": "3f79d1744bd9c373b36ce7f4909a6ad6.wav"
+      },
+      {
+        "text": "No, I don't feel like it. Maybe later.",
+        "audio_file": "e548326bc94f986287f3d35cb7e63ee0.wav"
+      },
+      {
+        "text": "You're a cook, why don't you bake me a cake?",
+        "audio_file": "0cf9d1d87814fdcdb89587cfbd726872.wav"
+      },
+      {
+        "text": "You don't look very happy.",
+        "audio_file": "3e7a21f25734ecc90f05db5bdd2552b4.wav"
+      },
+      {
+        "text": "I'd take the rest of the day off if I were you.",
+        "audio_file": "1aa2af80584e491467188d09e973b11f.wav"
+      },
+      {
+        "text": "Well maybe you need to take a holiday...",
+        "audio_file": "19d7579cd4ff1e12b0fe63c9a827f78c.wav"
+      },
+      {
+        "text": "Hmm, why not run away to the sea and start a new life as a Pirate?",
+        "audio_file": "408d198ccb806486acd80d82a1a096c8.wav"
+      },
+      {
+        "text": "I'm afraid I've run out of ideas.",
+        "audio_file": "78d36b4cab72b6e7f2c479255636b00a.wav"
+      },
+      {
+        "text": "Nice hat!",
+        "audio_file": "8db22e377e01795095a1c34788f71ca7.wav"
+      },
+      {
+        "text": "Still, suits you. The trousers are pretty special too.",
+        "audio_file": "d8bf7cb54e526957dbec828ecb0908b7.wav"
+      },
+      {
+        "text": "The whole hat, apron, stripey trousers ensemble - it works. It make you looks[sic] like a real cook.",
+        "audio_file": "f0f106367734b84e92abb4b7a3e78752.wav"
+      },
+      {
+        "text": "I haven't got any of them yet, I'm still looking.",
+        "audio_file": "111a5e7517bc0f0d5f2a4f870d2d0789.wav"
+      },
+      {
+        "text": "I'll get right on it.",
+        "audio_file": "9d64c3dc3652e236c8aca13861b543e3.wav"
+      },
+      {
+        "text": "Here's a bucket of milk.",
+        "audio_file": "dcb118ae477cb5eb57551cdaca0c85e2.wav"
+      },
+      {
+        "text": "Here's a pot of flour.",
+        "audio_file": "d220c528d4d20a4f7627f9512769d887.wav"
+      },
+      {
+        "text": "Here's a fresh egg.",
+        "audio_file": "80da68a08676a41777fc739a20206fa3.wav"
+      },
+      {
+        "text": "I am getting strong and mighty. Grrr[sic]",
+        "audio_file": "2b46b3c44e634f01de6cec99307d5c8d.wav"
+      },
+      {
+        "text": "I keep on dying.",
+        "audio_file": "0496ac887b9391451864b19c8d4a7ab9.wav"
+      },
+      {
+        "text": "Can I use your range?",
+        "audio_file": "a67a154c4b46f0b044c0ccf4db0b7b61.wav"
+      },
+      {
+        "text": "Will it mean my food will burn less often?",
+        "audio_file": "65c67abc6a285a416168800ff8303a65.wav"
+      },
+      {
+        "text": "Thanks?",
+        "audio_file": "4da5554fcf9092506e15de874d20c92a.wav"
+      },
+      {
+        "text": "Hello Cook. The Easter Bunny has run out of fuel for his egg making machine and has sent me to ask you for a favour.",
+        "audio_file": "5264f1c88d57cdc6d0c7197d17deb9de.wav"
+      },
+      {
+        "text": "Do you by chance have any Hosidius milk? The Easter Bunny needs some to make the fuel.",
+        "audio_file": "82f0d65da19a25fb6803590745793ac1.wav"
+      },
+      {
+        "text": "I would be glad to answer a riddle for you.",
+        "audio_file": "636e0728ed7a441184f42394bf28d0c4.wav"
+      },
+      {
+        "text": "Yes I am ready, crack out your riddle.",
+        "audio_file": "bc37c23b985dd48e90cf8390369f235b.wav"
+      },
+      {
+        "text": "Not just yet, maybe later.",
+        "audio_file": "5b03b1121c0ea97de348784988555078.wav"
+      },
+      {
+        "text": "I seem to have lost the milk, do you by any chance have any more?",
+        "audio_file": "38f05c280e4673f0e9fa53d030aed864.wav"
+      },
+      {
+        "text": "*AHEM*",
+        "audio_file": "9aa9f7c89808d9dd5c65d407c00aa67e.wav"
+      },
+      {
+        "text": "Cook, we're looking for some fancy eggs that we can use as decorations. You wouldn't happen to have anything, would you?",
+        "audio_file": "ef522d87132eed3a960a1e2e92da8c4e.wav"
+      },
+      {
+        "text": "Well, we have some eggs now. What's next?",
+        "audio_file": "1e321bdbf3a607ef2683e433b4c473c9.wav"
+      },
+      {
+        "text": "As important as the Duke of Lumbridge is, I'm sure he won't mind waiting a little longer for the sake of Easter.",
+        "audio_file": "3acd02622e8705bc5563c5b18806b78e.wav"
+      },
+      {
+        "text": "Wait... didn't the Duke just have his birthday?",
+        "audio_file": "69ddb27ab68fb0f1c8212b3bc530a694.wav"
+      },
+      {
+        "text": "Cook, as fun as it is bringing you ingredients, don't you just burn all your cakes anyway?",
+        "audio_file": "46e4bd54c309da20c91c701d3e02f14f.wav"
+      },
+      {
+        "text": "You could try something simple like fish, perhaps?",
+        "audio_file": "43e05b10b8e078a30735e12a54352425.wav"
+      },
+      {
+        "text": "The eggs you gave Gregg were just rotten ones, weren't they.",
+        "audio_file": "3d80bc4995be086ea3b4cd63d1cb06ea.wav"
+      },
+      {
+        "text": "*sigh* Do you know where he went at least?",
+        "audio_file": "449f3c91d81a1d05e81eecde59d83d29.wav"
+      },
+      {
+        "text": "Hello, how's it going?",
+        "audio_file": "9ed6995763db1dbac54286137df19561.wav"
+      },
+      {
+        "text": "Don't worry, I'll kill them.",
+        "audio_file": "bbf39e3dbd7ba3030a029d85ea7033b7.wav"
+      },
+      {
+        "text": "Do you want to trade?",
+        "audio_file": "0debf96f12fad9c09022e01da52d20f5.wav"
+      },
+      {
+        "text": "I'm in search of a quest.",
+        "audio_file": "c3bf8958ab0639b1661efe196f5bc31b.wav"
+      },
+      {
+        "text": "I'm in search of enemies to kill.",
+        "audio_file": "3da2a5e321db13a59f0782faae275ea6.wav"
+      },
+      {
+        "text": "Very well thank you.",
+        "audio_file": "2b09db4582c98ace656f17ac4c0bf430.wav"
+      },
+      {
+        "text": "I'm a bold adventurer.",
+        "audio_file": "10fd1099be747d58668576a86bab3331.wav"
+      },
+      {
+        "text": "Do you wish to trade?",
+        "audio_file": "99dc20ab7870248781bef101868441d1.wav"
+      },
+      {
+        "text": "Hello.",
+        "audio_file": "f9776f93ac975cd47b598e34d9242d18.wav"
+      },
+      {
+        "text": "Oh sorry, what did I do?",
+        "audio_file": "9283956b6c3994b711e03b19e064c831.wav"
+      },
+      {
+        "text": "Wait a minute... a toilet?",
+        "audio_file": "8026dd786d43816f221cd966a7ddec14.wav"
+      },
+      {
+        "text": "Riiiight. Oh, man, you didn't wipe your hands?",
+        "audio_file": "5ae3bff6132a52d99129e54e819c4e20.wav"
+      },
+      {
+        "text": "I was just exploring.",
+        "audio_file": "bc8896c052cd1d79eb146a31fbb29209.wav"
+      },
+      {
+        "text": "You don't mind, do you?",
+        "audio_file": "2e7b0db181eb8eb6aea1d995364e21c3.wav"
+      },
+      {
+        "text": "Oh, I don't know, I just wandered in, saw you and thought it'd be fun to speak to you.",
+        "audio_file": "4647346c2972c60e9e0114cce223a4bb.wav"
+      },
+      {
+        "text": "Perhaps I should go now.",
+        "audio_file": "96035bdbcf3c7b6b94a1ca78d703398a.wav"
+      },
+      {
+        "text": "Well, what is there to do around here?",
+        "audio_file": "3df8e2f7ff1d6728a4e1dda84877a65a.wav"
+      },
+      {
+        "text": "Thanks.",
+        "audio_file": "5fabb598c2a623a07288015fd094d076.wav"
+      },
+      {
+        "text": "Umm, I'm not going to eat you. Are you ok?",
+        "audio_file": "bfad2bbb2958d605c244968f0b3de4b7.wav"
+      },
+      {
+        "text": "Fork?",
+        "audio_file": "80e3f0917dc74bb3374e2f27c2543a5b.wav"
+      },
+      {
+        "text": "Ummm... no... I'll just leave you to it.",
+        "audio_file": "ab0fafad5b6dbc2d49dfb85ef48398a0.wav"
+      },
+      {
+        "text": "Hello there.",
+        "audio_file": "9d6a2963872077db674a27a39c492e61.wav"
+      },
+      {
+        "text": "Sorry, that's not what I'm here to do.",
+        "audio_file": "2be9e80cd14073e5fca0a94db008b661.wav"
+      },
+      {
+        "text": "Can we talk about the current event?",
+        "audio_file": "8f4657c86cbd1516650edabb4391cfd1.wav"
+      },
+      {
+        "text": "I am getting strong and mighty. Grrr",
+        "audio_file": "522e8f57f0ce38734475701a4d7876ce.wav"
+      },
+      {
+        "text": "Do you have any other quests for me? That last one of yours was fun!",
+        "audio_file": "85bc65724044dc156e00bb670146736a.wav"
+      },
+      {
+        "text": "What's the Cake Off?",
+        "audio_file": "3c430ce4e2203ee142d4a757fa37cc8e.wav"
+      },
+      {
+        "text": "Who are you?",
+        "audio_file": "f6c2093759842407fc533c6f8a7d1b76.wav"
+      },
+      {
+        "text": "Your prized tin?",
+        "audio_file": "360e6acf66e8ff62afda8bfdc2dd817b.wav"
+      },
+      {
+        "text": "What's happened to it?",
+        "audio_file": "71dc4c1e9c29904b481ba832d002af54.wav"
+      },
+      {
+        "text": "I'm sure I can find someone to fix it!",
+        "audio_file": "8a22f13172b355d7bf95b6ac85ed824c.wav"
+      },
+      {
+        "text": "Do you think he can fix it?",
+        "audio_file": "cb1e00312a53cc8944dbfba3deedc676.wav"
+      },
+      {
+        "text": "I'm afraid I can't help you right now.",
+        "audio_file": "d7f3622d760af8ec41052bb138966755.wav"
+      },
+      {
+        "text": "Patty!",
+        "audio_file": "692bd7ba2fc19eaf442634c3458589cc.wav"
+      },
+      {
+        "text": "I have great news! The Lumbridge cake won the Cake Off!",
+        "audio_file": "a050cf9b84ff9c4f284a3905826a99ff.wav"
+      },
+      {
+        "text": "Yes, they were.",
+        "audio_file": "e60f33aa80b4ec07f4430ebe58a34abf.wav"
+      },
+      {
+        "text": "You'd have to ask them yourself.",
+        "audio_file": "18059bdc09c194c0a45209f5bac33ab0.wav"
+      },
+      {
+        "text": "Where am I?",
+        "audio_file": "f9782e2ed8a9f9455b3af8010b2e9158.wav"
+      },
+      {
+        "text": "How are you today?",
+        "audio_file": "eb7edd81af9146ea0ef9c9397ece0bc4.wav"
+      },
+      {
+        "text": "Weather?",
+        "audio_file": "9d908da742e360e8b0dc24c8dfdaf86b.wav"
+      },
+      {
+        "text": "...",
+        "audio_file": "2f43b42fd833d1e77420a8dae7419000.wav"
+      },
+      {
+        "text": "Do you know of any quests I can do?",
+        "audio_file": "65a694089851a8a089734ea7efb92e5b.wav"
+      },
+      {
+        "text": "Big scary demons!",
+        "audio_file": "026e71ccafe9ffbf7b599ef67ff2778f.wav"
+      },
+      {
+        "text": "Thanks for the tip, perhaps I will.",
+        "audio_file": "c32f62370703c3e107810a0f75d534d3.wav"
+      },
+      {
+        "text": "I've already killed the demon Delrith. He was merely a stain on my sword when I was finished with him!",
+        "audio_file": "ba7a41fd2408306481988024bfc1ff6b.wav"
+      },
+      {
+        "text": "Vampyres!",
+        "audio_file": "a3768712417cca179c2b8cdba6d12166.wav"
+      },
+      {
+        "text": "Thanks for the tip.",
+        "audio_file": "6b77e49174b648a6b208f54436be2067.wav"
+      },
+      {
+        "text": "Oh I have already killed that nasty blood-sucking vampyre. Draynor will be safe now.",
+        "audio_file": "66b7fede40f0f6a7193dfb39c8279811.wav"
+      },
+      {
+        "text": "What! I did slay the beast..I really did.",
+        "audio_file": "62ee9302c4b5187fac6e8e649fe03623.wav"
+      },
+      {
+        "text": "..Huh.. But... Hey! I did... believe what you like.",
+        "audio_file": "5d81bdbef9d5784da2c8fffe6e209117.wav"
+      },
+      {
+        "text": "Small.. something small would be good.",
+        "audio_file": "6c09c48c507b7e5220f1109046e443f7.wav"
+      },
+      {
+        "text": "Yes it can be! There could be anything from an evil chicken to a poisonous spider. They attack in numbers you know!",
+        "audio_file": "2996b452d600e0a593332fe47d3244be.wav"
+      },
+      {
+        "text": "Thanks for your help.",
+        "audio_file": "85d3d5a7d0c910091e84a57215db1bde.wav"
+      },
+      {
+        "text": "Yes I know of Mizgog and have already helped him with his imp problem. It took me ages to find those beads!",
+        "audio_file": "f7e6eb73899e946eab4b963a59f6b787.wav"
+      },
+      {
+        "text": "Maybe another time.",
+        "audio_file": "ebaeda37e982b71a905f5f1995285a85.wav"
+      },
+      {
+        "text": "Something easy please, I'm new here.",
+        "audio_file": "be7daaabdc625a7d156d8ffc2bed3649.wav"
+      },
+      {
+        "text": "Tell me about the Lumbridge cook.",
+        "audio_file": "5741da162d52a834fd77d98f8f759631.wav"
+      },
+      {
+        "text": "Thank you. I shall go speak with him.",
+        "audio_file": "9e761e1f2b13f8ee24d7e093507fc26c.wav"
+      },
+      {
+        "text": "I have already helped the cook in Lumbridge.",
+        "audio_file": "7892b276c3230b49082741f44659e678.wav"
+      },
+      {
+        "text": "Tell me about the Duke's strange talisman.",
+        "audio_file": "c25272d4da66791a432d9e05223e1b86.wav"
+      },
+      {
+        "text": "Sounds mysterious. I may just do that. Thanks.",
+        "audio_file": "729998dd2a31aba4c2ff0e5736b895b8.wav"
+      },
+      {
+        "text": "Yes, I have already solved the Rune mysteries.",
+        "audio_file": "2d0151cd65f85f29a480a71aa630a08f.wav"
+      },
+      {
+        "text": "Tell me about Romeo and his girlfriend please.",
+        "audio_file": "57a4d33ee707aed35f08b29a5f207a6a.wav"
+      },
+      {
+        "text": "Right, ok. Romeo is in Varrock?",
+        "audio_file": "9c345dcafa6d7daf1639195f4cd5849a.wav"
+      },
+      {
+        "text": "Oh yes, I've already helped Romeo in the best possible way I can...",
+        "audio_file": "4fac2a75b1ababbb97f05df399b4692b.wav"
+      },
+      {
+        "text": "Yup.",
+        "audio_file": "f1d3b4a1811a9d549ea2b89968bac42d.wav"
+      },
+      {
+        "text": "He thinks Juliet is dead...",
+        "audio_file": "c7987c452227975b9d2a890600ad4de8.wav"
+      },
+      {
+        "text": "I'm a thinker rather than fighter, anything skill orientated?",
+        "audio_file": "148f6f55f2b1bcf74cc4e47946c84577.wav"
+      },
+      {
+        "text": "Tell me about Fred the farmer please.",
+        "audio_file": "035135a416cb8a290bdf49e252e823bb.wav"
+      },
+      {
+        "text": "Thanks, maybe I will.",
+        "audio_file": "9efdc8188adfb53119004dffbc6e876e.wav"
+      },
+      {
+        "text": "I have already helped Fred the farmer. I sheared his sheep and made 20 balls of wool for him.",
+        "audio_file": "5dc08cfd0e9ca52eeace2f47a98f6536.wav"
+      },
+      {
+        "text": "He wouldn't let me kill his chickens though.",
+        "audio_file": "2fa371cdfa2a5edc46472e4b93441e45.wav"
+      },
+      {
+        "text": "Tell me about Doric the dwarf.",
+        "audio_file": "c13cba5cfc36fcbab4717576e193b9d9.wav"
+      },
+      {
+        "text": "Yes, I've been to see Doric already. He was happy to let me use his anvils after I ran a small errand for him.",
+        "audio_file": "05b9de2203134a3ee795bf26f804c6d0.wav"
+      },
+      {
+        "text": "I want to do all kinds of things, do you know of anything like that?",
+        "audio_file": "872ed277ab16ff3a3014b8028f6d9d7b.wav"
+      },
+      {
+        "text": "Tell me about Hetty the witch.",
+        "audio_file": "36a886308c4e3d37e646c0a1e91e611f.wav"
+      },
+      {
+        "text": "Ok thanks, let's hope she doesn't turn me into a potato or something..",
+        "audio_file": "23eb6c3df48a1056a2bc92111489fc92.wav"
+      },
+      {
+        "text": "Yes, I have already been to see Hetty, she gave me super cosmic powers after I helped out with her potion! I could probably destroy you with a single thought!",
+        "audio_file": "0c4d6b8a798d1dcfa3910a512c92cd1e.wav"
+      },
+      {
+        "text": "No not really...",
+        "audio_file": "3fc055e0ca022b441c1541d99922fa24.wav"
+      },
+      {
+        "text": "Tell me about Pirate's Treasure.",
+        "audio_file": "94e921eb2cda225c6c1e2cd1980953a5.wav"
+      },
+      {
+        "text": "Sounds adventurous, I may have to check that out. Thank you.",
+        "audio_file": "78e2492b86dd37cba4a9554d58c4e05b.wav"
+      },
+      {
+        "text": "Yarr! I already found the booty!",
+        "audio_file": "ddda6e52f59db0462cc6167da4cbdb2f.wav"
+      },
+      {
+        "text": "Yarr!",
+        "audio_file": "8cd5bcccae33509baf55056a6cfd38db.wav"
+      },
+      {
+        "text": "YARRR!",
+        "audio_file": "250c699ce5cc031ec092acd4b1e0c368.wav"
+      },
+      {
+        "text": "..Sorry.",
+        "audio_file": "aee744a823062eb5fee31a85c1cc4839.wav"
+      },
+      {
+        "text": "Tell me about Ernest please.",
+        "audio_file": "3792516597fb414c01b0a51377a22d0e.wav"
+      },
+      {
+        "text": "Sounds like fun. I've never been to a Haunted Manor before.",
+        "audio_file": "ec7709fa3bdde96f3f58ca524edab478.wav"
+      },
+      {
+        "text": "Yeah, I found Ernest already. Professor Oddenstein had turned him into a chicken!",
+        "audio_file": "a4950a94325be9190a24fe476db911f5.wav"
+      },
+      {
+        "text": "Yeah a chicken. It could have been worse though.",
+        "audio_file": "ccc0c5eb605d8db2784d1018955355bc.wav"
+      },
+      {
+        "text": "Where can I get a haircut like yours?",
+        "audio_file": "87536da54f3d7c7b5896dbd4f674d131.wav"
+      },
+      {
+        "text": "Oh thanks!",
+        "audio_file": "534812ab88e6e72d075f784ce53985b8.wav"
+      },
+      {
+        "text": "What's up?",
+        "audio_file": "7f603a8bb0687b72a86165744456a2de.wav"
+      },
+      {
+        "text": "You assume?",
+        "audio_file": "2bd04231f1aef8b73fc15488676a25eb.wav"
+      },
+      {
+        "text": "Can I buy your stick?",
+        "audio_file": "03994b7ac3ad727bf7df8b7af332cc29.wav"
+      },
+      {
+        "text": "Really? Show me what it can do!",
+        "audio_file": "521267ddfcda26dcb8f527a99f948845.wav"
+      },
+      {
+        "text": "It's a stick isn't it?",
+        "audio_file": "89253a6919973749681fb25b2f551db7.wav"
+      },
+      {
+        "text": "Well good luck with that.",
+        "audio_file": "513981e75a8abb13e5414f176b62bb8d.wav"
+      },
+      {
+        "text": "Do you have anything of value which I can have?",
+        "audio_file": "4087729acbc61d2300183477232a930c.wav"
+      },
+      {
+        "text": "Well... er... yes.",
+        "audio_file": "7e456b844dbd2c1d0c91ffcac10d19e3.wav"
+      },
+      {
+        "text": "Your shoe lace is untied.",
+        "audio_file": "b5428231f22eb89c30fdafd9ba24f7e5.wav"
+      },
+      {
+        "text": "No you're right. I have nothing to back that up.",
+        "audio_file": "a3e24729dd5e8e9f57f40fe8c1127868.wav"
+      },
+      {
+        "text": "Do you know what happened in the castle cellar?",
+        "audio_file": "f419f729ad5b43230d37afaa10c291d5.wav"
+      },
+      {
+        "text": "I fancy a bit of a fight, anything dangerous?",
+        "audio_file": "02e8fe8de09d4a669038ebeea348cc1a.wav"
+      },
+      {
+        "text": "Yes, I have already solved the rune mysteries.",
+        "audio_file": "6fa773421d6429b245d87260fe2324a2.wav"
+      },
+      {
+        "text": "I'm looking for whoever is in charge of this place.",
+        "audio_file": "65c64d1cbb63f5a939721f908b1becd3.wav"
+      },
+      {
+        "text": "I have come to kill everyone in this castle!",
+        "audio_file": "265025066bde4eb236edd87f0f1d0d8f.wav"
+      },
+      {
+        "text": "I don't know. I'm lost. Where am I?",
+        "audio_file": "fc3c9d8502e96ba9b04d95d70e2ddbbf.wav"
+      },
+      {
+        "text": "Can you tell me how long I've been here?",
+        "audio_file": "fb8db3d956b72d0e0dfefbf9823ef034.wav"
+      },
+      {
+        "text": "Nothing.",
+        "audio_file": "552e3a8380fc0ad75e0912736760954b.wav"
+      },
+      {
+        "text": "Hiya.",
+        "audio_file": "a25aede7f9fd29932e81e10beb12c05b.wav"
+      },
+      {
+        "text": "I'm a brave knight! I am coming to kill anyone in the vicinity of Lumbridge Castle!",
+        "audio_file": "483f00879bcaba649c7d13f8c5e91a39.wav"
+      },
+      {
+        "text": "Hehe. Fool!",
+        "audio_file": "eef549f1b9813cd60ac871c443bb922b.wav"
+      },
+      {
+        "text": "Hans! Hans! You've been walking around this courtyard since we were two dimensional, have you seen the Gnome Child's hat? He has lost it.",
+        "audio_file": "0ddc4688b41becc5b031dc9fe9198793.wav"
+      },
+      {
+        "text": "Really? A seagull picked up a hat? Can they do that?",
+        "audio_file": "ca543f8c3ca2a7d40da7bceac82a2805.wav"
+      },
+      {
+        "text": "I should probably go somewhere that Hans might actually see me.",
+        "audio_file": "8bef9fac21d85f5b9cec3c6cdd8eacdb.wav"
+      },
+      {
+        "text": "I think he hasn't sat down for a while!",
+        "audio_file": "52e43c5b01f16cacc78830a62fac2f9c.wav"
+      },
+      {
+        "text": "Hey Hans, you look like you're enjoying the party!",
+        "audio_file": "e49e04bcf83275b4d61c365be1ead237.wav"
+      },
+      {
+        "text": "Does it include guessing my age?",
+        "audio_file": "882ea2646e536cff484f4d16a3b29c92.wav"
+      }
+    ]
+  }
+]

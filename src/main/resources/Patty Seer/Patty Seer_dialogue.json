@@ -1,0 +1,55 @@
+[
+  {
+    "npc": "Patty Seer",
+    "dialogue": [
+      {
+        "text": "Oh no... what do I do?",
+        "audio_file": "e3ab291410a16a5b30c16075d7c171d7.wav"
+      },
+      {
+        "text": "It's all gone wrong...",
+        "audio_file": "d089a87b2fdad342c78a29f5c51c16aa.wav"
+      },
+      {
+        "text": "I'm supposed to be cooking a cake for the Cake Off but my prized tin has broken!",
+        "audio_file": "ad38517cbfd82380aad0f96f2e19bda0.wav"
+      },
+      {
+        "text": "Oh, you don't know about the Great Gielinor Cake Off? It's Party Pete's newest idea!",
+        "audio_file": "51e1249bbf91cfefc9e8b1874cb84054.wav"
+      },
+      {
+        "text": "He's invited representatives from across the world to have their baking skills judged.",
+        "audio_file": "bb4303722a47c991b803dc24bbb4e55d.wav"
+      },
+      {
+        "text": "Oh! I'm Patty Seer, a wandering cook! I'm traveling the world learning everything I can about food.",
+        "audio_file": "71099084451af170bd7a7bf0f73f9560.wav"
+      },
+      {
+        "text": "Yes, I use it for every cake I bake. It brings me luck.",
+        "audio_file": "f5812480ed648e9d1bdc27350f283324.wav"
+      },
+      {
+        "text": "I'm not sure how, but it's broken in two... Do you think you might be able to help me?",
+        "audio_file": "b80ab513f30eb3e55dfdaeddd8c301b1.wav"
+      },
+      {
+        "text": "Oh... thank you for the offer but I'm not interested in that.",
+        "audio_file": "7f8d7db14bb41a9d3231775eb19e6fc6.wav"
+      },
+      {
+        "text": "Yes, Adventurer?",
+        "audio_file": "22b25511c6dbf780fa0e0ada4ad4eea3.wav"
+      },
+      {
+        "text": "Wonderful! Was Warmhandz happy with the win?",
+        "audio_file": "5efe665a300366e74b08d940df06b979.wav"
+      },
+      {
+        "text": "Do you think they would be interested in travelling and learning with me?",
+        "audio_file": "28735e4f6a112c784bbbf723caa48e58.wav"
+      }
+    ]
+  }
+]

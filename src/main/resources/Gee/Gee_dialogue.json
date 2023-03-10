@@ -1,0 +1,291 @@
+[
+  {
+    "npc": "Gee",
+    "dialogue": [
+      {
+        "text": "Hello there, can I help you?",
+        "audio_file": "6982c55f4014da02c493c5da1a1684de.wav"
+      },
+      {
+        "text": "This is the town of Lumbridge my friend.",
+        "audio_file": "6e7af37fd20cd3f9a2052baa21fd3fae.wav"
+      },
+      {
+        "text": "Aye, not too bad thank you. Lovely weather in Gielinor this fine day.",
+        "audio_file": "3166f3302c114f6dcac8146fb3fc3e1b.wav"
+      },
+      {
+        "text": "Yes weather, you know.",
+        "audio_file": "14a220690ec08ac64a2f142f0aa4e49d.wav"
+      },
+      {
+        "text": "The state or condition of the atmosphere at a time and place, with respect to variables such as temperature, moisture, wind velocity, and barometric pressure.",
+        "audio_file": "63d8df494bcd792bfd62b860cbdecae2.wav"
+      },
+      {
+        "text": "Not just a pretty face eh? Ha ha ha.",
+        "audio_file": "bc43c1c6fece4a3c2328ee2cea8de339.wav"
+      },
+      {
+        "text": "What kind of quest are you looking for?",
+        "audio_file": "a69c887aad7b4a7fe4f189f5a96ee154.wav"
+      },
+      {
+        "text": "Hmm.. dangerous you say? What sort of creatures are you looking to fight?",
+        "audio_file": "021ff906e565244545580f9c6749568b.wav"
+      },
+      {
+        "text": "You are a brave soul indeed.",
+        "audio_file": "0b1815475883471386486728ecc619b0.wav"
+      },
+      {
+        "text": "Now that you mention it, I heard a rumour about a fortune-teller in Varrock who is rambling about some kind of greater evil.. sounds demon-like if you ask me.",
+        "audio_file": "9f1a704ad81a2c5b3043a4d0fe986a11.wav"
+      },
+      {
+        "text": "Perhaps you could check it out if you are as brave as you say?",
+        "audio_file": "956ca7eddf4b448d2c905467adb90762.wav"
+      },
+      {
+        "text": "Well done! However I'm sure if you search around the world you will find more challenging foes to slay.",
+        "audio_file": "966b6400109d91030bb10ba588001f37.wav"
+      },
+      {
+        "text": "Ha ha. I personally don't believe in such things. However, there is a man in Draynor Village who has been scaring the village folk with stories of vampyres.",
+        "audio_file": "ae57bf7a18490d946e3483f5655c8ec8.wav"
+      },
+      {
+        "text": "He's named Morgan and can be found in one of the village houses. Perhaps you could see what the matter is?",
+        "audio_file": "03b17353796296bf34d3c7587922cddd.wav"
+      },
+      {
+        "text": "Yeah, yeah of course you did. Everyone knows vampyres are not real....",
+        "audio_file": "9b0412e0ee511d7b4c47b2f403414697.wav"
+      },
+      {
+        "text": "You're not fooling anyone you know.",
+        "audio_file": "ba1186b2f702e9a012ec467019de0d41.wav"
+      },
+      {
+        "text": "Small? Small isn't really that dangerous though is it?",
+        "audio_file": "cf5bbaac2dbbae14277355eab361d55b.wav"
+      },
+      {
+        "text": "Yes ok, point taken. Speaking of small monsters, I hear old Wizard Mizgog in the wizards' tower has just had all his beads taken by a gang of mischievous imps.",
+        "audio_file": "a465cfcd9ee81c889c8130c58e5bbf79.wav"
+      },
+      {
+        "text": "Sounds like it could be a quest for you?",
+        "audio_file": "b91fe99720f598f648c92aac864d8362.wav"
+      },
+      {
+        "text": "Imps will be imps!",
+        "audio_file": "2cb0ed313c93e99c9293b6cc2bc71645.wav"
+      },
+      {
+        "text": "I can tell you about plenty of small easy tasks.",
+        "audio_file": "f067333d7a742bf0488c6d13c7484f3b.wav"
+      },
+      {
+        "text": "The Lumbridge cook has been having problems, the Duke is confused over some strange talisman and on top of all that, poor lad Romeo in Varrock has girlfriend problems.",
+        "audio_file": "89cd2da87372cf080a0bd767c065ec89.wav"
+      },
+      {
+        "text": "It's funny really, the cook would forget his head if it wasn't screwed on. This time he forgot to get ingredients for the Duke's birthday cake.",
+        "audio_file": "1b38767a059eafb8de02393bdd57bb9d.wav"
+      },
+      {
+        "text": "Perhaps you could help him? You will probably find him in the Lumbridge Castle kitchen.",
+        "audio_file": "ddbede7e605177f9f7ec2b4681e343d0.wav"
+      },
+      {
+        "text": "Oh yes, so you have. I am sure the Duke will be pleased.",
+        "audio_file": "e3d3f609ff35c73499b03b10518f5e4f.wav"
+      },
+      {
+        "text": "Well the Duke of Lumbridge has found a strange talisman that no one seems to understand. Perhaps you could help him? You can probably find him upstairs in Lumbridge Castle.",
+        "audio_file": "30a10d50c4416c97cba75640edaebbda.wav"
+      },
+      {
+        "text": "Ah excellent. Thank you very much adventurer.",
+        "audio_file": "eb12a86e92b9025ee0dffbacd6814232.wav"
+      },
+      {
+        "text": "Romeo in Varrock needs help with finding his beloved Juliet, you may be able to help him out.",
+        "audio_file": "b00ad1409495075ac879153e30e0c1f3.wav"
+      },
+      {
+        "text": "Unless of course you manage to find Juliet first in which case she has probably lost Romeo.",
+        "audio_file": "9c47808225f22d99419a79cb9ecd6ffa.wav"
+      },
+      {
+        "text": "Yes you can't miss him, he's wandering aimlessly in the square.",
+        "audio_file": "5c7e2bfe8b1b26b72fe558b66f0ec572.wav"
+      },
+      {
+        "text": "Really?",
+        "audio_file": "e02f73c2064f87b7611959b9c03536de.wav"
+      },
+      {
+        "text": "...How?",
+        "audio_file": "cad4de7bec08f3f4f23499d4fa9ec036.wav"
+      },
+      {
+        "text": "Well.. ok.. well done... I think...",
+        "audio_file": "5ec09d2caf663c6070c4147ae4e36017.wav"
+      },
+      {
+        "text": "Skills play a big part when you want to progress in knowledge throughout Gielinor. I know of a few skill- related quests that can get you started.",
+        "audio_file": "be36faf344afb8b1dc349479b19502d9.wav"
+      },
+      {
+        "text": "You may be able to help out Fred the farmer who is in need of someones crafting expertise.",
+        "audio_file": "de79e667eec06be886c35b58e2cabd72.wav"
+      },
+      {
+        "text": "Or, there's always Doric the dwarf who needs an errand running for him?",
+        "audio_file": "67d899d96353b769272b177a4838f671.wav"
+      },
+      {
+        "text": "You can find Fred next to the field of sheep in Lumbridge. Perhaps you should go and speak with him.",
+        "audio_file": "0492bfe185292cdb720428a290c80398.wav"
+      },
+      {
+        "text": "Lumbridge chickens do make good target practice.",
+        "audio_file": "74614468ad171a03ae8412a2cba7c6ec.wav"
+      },
+      {
+        "text": "You will have to wait until he isn't looking.",
+        "audio_file": "b7989b10a559f4f430cf8fefabae4e1a.wav"
+      },
+      {
+        "text": "Doric the dwarf is located north of Falador. He might be able to help you with smithing. You should speak to him. He may let you use his anvils.",
+        "audio_file": "e583879607e3496b2cda2cb214679c37.wav"
+      },
+      {
+        "text": "Oh good, Thank you [player name]!",
+        "audio_file": "217163d5f73ce56b72d677edc8b4f7e4.wav"
+      },
+      {
+        "text": "Of course I do. Gielinor is a huge place you know, now let me think...",
+        "audio_file": "46741348c080e8b4f838920d296467ca.wav"
+      },
+      {
+        "text": "Hetty the witch in Rimmington might be able to offer help in the ways of magical abilities..",
+        "audio_file": "8666bd7d09ab85fd937c97469c299b87.wav"
+      },
+      {
+        "text": "Also, pirates are currently docked in Port Sarim, Where pirates are, treasure is never far away...",
+        "audio_file": "4b7b5c3536c07d5a14d42eb3962d8e30.wav"
+      },
+      {
+        "text": "Or you could go help out Ernest who got lost in Draynor Manor, spooky place that.",
+        "audio_file": "f53abbe7b04d8783210d021891f425d0.wav"
+      },
+      {
+        "text": "Hetty the witch can be found in Rimmington, south of Falador. She's currently working on some new potions. Perhaps you could give her a hand? She might be able to offer help with your magical abilities.",
+        "audio_file": "b8bb3da5fb3ec5c94cf06cd927987865.wav"
+      },
+      {
+        "text": "Did she really?",
+        "audio_file": "62d3615be2b5592fbbab0d49ae04e835.wav"
+      },
+      {
+        "text": "Right.....",
+        "audio_file": "9b2da31660fca3e3d64f53972c547194.wav"
+      },
+      {
+        "text": "RedBeard Frank in Port Sarim's bar, the Rusty Anchor, might be able to tell you about the rumored treasure that is buried somewhere in Gielinor.",
+        "audio_file": "883e3144e84442e9330a53667b880274.wav"
+      },
+      {
+        "text": "Yarr indeed my friend. A most excellent find.",
+        "audio_file": "1ebee72b44eb3251302683c7eb2405a5.wav"
+      },
+      {
+        "text": "Yarrr!",
+        "audio_file": "d78d6b4ba951f612ea2f95588e11f7ab.wav"
+      },
+      {
+        "text": "Right, that's enough of that!",
+        "audio_file": "674bcec1f414ab5b649b34aa2f96e8a8.wav"
+      },
+      {
+        "text": "The best place to start would be at the gate to Draynor Manor. There you will find Veronica who will be able to tell you more.",
+        "audio_file": "d037c7e85d84df8cfff5e30dad84f98a.wav"
+      },
+      {
+        "text": "I suggest you tread carefully in that place; it's haunted.",
+        "audio_file": "3cdae23ceda2f9a4dd03eed221d162c9.wav"
+      },
+      {
+        "text": "A chicken!?",
+        "audio_file": "2ad5484ef323c199d7ecfaed67a9c3e5.wav"
+      },
+      {
+        "text": "Very true, poor guy.",
+        "audio_file": "0dfc98b847eaecef14873c9940f65994.wav"
+      },
+      {
+        "text": "Yes, it does look like you need a hairdresser.",
+        "audio_file": "51ebd1e05cd2d126765ad31c793b129c.wav"
+      },
+      {
+        "text": "No problem. The hairdresser in Falador will probably be able to sort you out.",
+        "audio_file": "6490c063ec2a0bed521e55b85236f6a2.wav"
+      },
+      {
+        "text": "The Lumbridge general store sells useful maps if you don't know the way.",
+        "audio_file": "89be2c0c947d3d53d9c554e620f73206.wav"
+      },
+      {
+        "text": "I assume the sky is up..",
+        "audio_file": "3362d39b4bd54565a08365a2df02f9b6.wav"
+      },
+      {
+        "text": "Yeah, unfortunately I don't seem to be able to look up.",
+        "audio_file": "6394736f0a341c51a58d35e53592c5b7.wav"
+      },
+      {
+        "text": "It's not a stick! I'll have you know it's a very powerful staff!",
+        "audio_file": "67da83087f2b656dc260708a34165ae7.wav"
+      },
+      {
+        "text": "Um..It's a bit low on power at the moment..",
+        "audio_file": "789dd762ea165b8e3d2818b96069279d.wav"
+      },
+      {
+        "text": "...Ok it's a stick.. But only while I save up for a staff. Zaff in Varrock square sells them in his shop.",
+        "audio_file": "5dc3e4a6d4d2bfb6b7f3152017d8cc89.wav"
+      },
+      {
+        "text": "Are you asking for free stuff?",
+        "audio_file": "e4e2e3c4b43d44e823a462e30f7fcd42.wav"
+      },
+      {
+        "text": "No I do not have anything I can give you. If I did have anything of value I wouldn't want to give it away.",
+        "audio_file": "606939a65e6447ebafc42ce813e46384.wav"
+      },
+      {
+        "text": "No it's not!",
+        "audio_file": "af2e7cb88d2f6526842c5d100ea4b5d4.wav"
+      },
+      {
+        "text": "Fool! Leave me alone!",
+        "audio_file": "112731170f9391213868da36b0138c8b.wav"
+      },
+      {
+        "text": "I heard the wall collapsed or something. I don't know why. Perhaps you could get to the bottom of this mystery!",
+        "audio_file": "d66d0c8d495d7bce3822a902bd5e21d7.wav"
+      },
+      {
+        "text": "RedBeard Frank in Port Sarim's bar, the Rusty Anchor, might be able to tell you about the rumoured treasure that is buried somewhere in Gielinor.",
+        "audio_file": "152793332097747e72a787c401fd1814.wav"
+      },
+      {
+        "text": "Oh good, Thank you ASuperDood!",
+        "audio_file": "cfb3293480dbe14618f59240e7fe9480.wav"
+      }
+    ]
+  }
+]
