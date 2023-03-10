@@ -1,0 +1,135 @@
+[
+  {
+    "npc": "Woman",
+    "dialogue": [
+      {
+        "text": "Not too bad, but I'm a little worried about the increase of goblins these days.",
+        "audio_file": "f7c845c8dc2612ed545153563b1d265a.wav"
+      },
+      {
+        "text": "How can I help you?",
+        "audio_file": "2673bdac54e0e6296fa3a02c9b2704ac.wav"
+      },
+      {
+        "text": "No, I have nothing I wish to get rid of. If you want to do some trading, there are plenty of shops and market stalls around though.",
+        "audio_file": "5f6796d838d7a0adfc6032f822740ba3.wav"
+      },
+      {
+        "text": "I'm sorry I can't help you there.",
+        "audio_file": "3075114d206f47d36b6c71b3dc31575a.wav"
+      },
+      {
+        "text": "I've heard there are many fearsome creatures that dwell under the ground...",
+        "audio_file": "2642093c5ac8ee2d9cab9b827f8d28ec.wav"
+      },
+      {
+        "text": "Get out of my way, I'm in a hurry!",
+        "audio_file": "1ee79519d5a2ed7fd6c0e40de041757c.wav"
+      },
+      {
+        "text": "I'm fine, how are you?",
+        "audio_file": "eab6065cd8e03ec77247847623e47284.wav"
+      },
+      {
+        "text": "Hello there! Nice weather we've been having.",
+        "audio_file": "e040cbd684e4becdab64b7833d82c60a.wav"
+      },
+      {
+        "text": "I'm very well thank you.",
+        "audio_file": "23fcb353a6095b1c197a7e274fa4a73b.wav"
+      },
+      {
+        "text": "Who are you?",
+        "audio_file": "f6c2093759842407fc533c6f8a7d1b76.wav"
+      },
+      {
+        "text": "Ah, a very noble profession.",
+        "audio_file": "5ff23915e6cb52d2fea27274189a7b6f.wav"
+      },
+      {
+        "text": "Do I know you? I'm in a hurry!",
+        "audio_file": "3fbbcf54f05849afab1307ebaa223ae7.wav"
+      },
+      {
+        "text": "I think we need a new king. The one we've got isn't very good.",
+        "audio_file": "2c5f698f97925f6f6e6b681cd122a0a7.wav"
+      },
+      {
+        "text": "Not too bad thanks.",
+        "audio_file": "57efd7d32c34f489c10f061f06a98956.wav"
+      },
+      {
+        "text": "Are you asking for a fight?",
+        "audio_file": "4b79f7d088ff6ecfd4cb63f36eeb3117.wav"
+      },
+      {
+        "text": "I'm busy right now.",
+        "audio_file": "ed37a30b9c9defe8f8fb67f6030fa290.wav"
+      },
+      {
+        "text": "Hello.",
+        "audio_file": "f9776f93ac975cd47b598e34d9242d18.wav"
+      },
+      {
+        "text": "None of your business.",
+        "audio_file": "0d9c7d659feb01b73723630690684fc0.wav"
+      },
+      {
+        "text": "No I don't have any spare change.",
+        "audio_file": "c82c3de21e27deb516093b3c8d99ff50.wav"
+      },
+      {
+        "text": "I'm a little worried - I've heard there's lots of people going about, killing citizens at random.",
+        "audio_file": "d4954ab64e85eeca972275207f7643f7.wav"
+      },
+      {
+        "text": "No, I don't want to buy anything!",
+        "audio_file": "4aaeb1a9a262e978b8c7bc6d959ec114.wav"
+      },
+      {
+        "text": "That is classified information.",
+        "audio_file": "f8312989bb6ed7ba485272e8f6c3f420.wav"
+      },
+      {
+        "text": "Have this flier...",
+        "audio_file": "0fea6fcdcb546594fbfebeadcb2f126b.wav"
+      },
+      {
+        "text": "Yo, wassup!",
+        "audio_file": "e5c681fd483977fb97fca07ed2fbadf9.wav"
+      },
+      {
+        "text": "I like our king, he's keeping the poor and infected away from us decent folk.",
+        "audio_file": "8fa8b868a5f940b4c4dd3ae044675394.wav"
+      },
+      {
+        "text": "Not too bad. Glad the plague hasn't touched, the better areas of town.",
+        "audio_file": "257141bcd3a831da78999ebd94eb36f5.wav"
+      },
+      {
+        "text": "An outsider! Can you get me out of this hell hole?",
+        "audio_file": "11134aa125476e38dce7100ac1424ac7.wav"
+      },
+      {
+        "text": "Go away. People from the outside shut us in like animals. I have nothing to say to you.",
+        "audio_file": "5dc23692f0e2e79ebabac8a52fd9516f.wav"
+      },
+      {
+        "text": "Bah, those mourners... they're meant to be helping us, but I think they're doing more harm here than good. They won't even let me send a letter out to my family.",
+        "audio_file": "9c166ffe5ff0d57fd6572d38895fef0d.wav"
+      },
+      {
+        "text": "Yes, I've seen her. Very helpful person.",
+        "audio_file": "7908b4fa5bf7b196f11fc42b7b469fbb.wav"
+      },
+      {
+        "text": "Not for the last few days though... I thought maybe she'd gone home.",
+        "audio_file": "18b346a0fe936d4d77c91a9ff753b90f.wav"
+      },
+      {
+        "text": "Oh I'm not one to cause a fuss.",
+        "audio_file": "9457ff504a8bffbcfc702ee57f398475.wav"
+      }
+    ]
+  }
+]

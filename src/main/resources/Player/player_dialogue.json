@@ -649,6 +649,22 @@
       {
         "text": "Does it include guessing my age?",
         "audio_file": "882ea2646e536cff484f4d16a3b29c92.wav"
+      },
+      {
+        "text": "Err... yeah.",
+        "audio_file": "718991e19a69f2140f05139ee383387f.wav"
+      },
+      {
+        "text": "Good day.",
+        "audio_file": "e8edd1c1106656bc4ff615f7aa821e4e.wav"
+      },
+      {
+        "text": "Have you seen a lady called Elena around here?",
+        "audio_file": "22e214af0691c257e4d56b843cb4220c.wav"
+      },
+      {
+        "text": "You should stand up to them more.",
+        "audio_file": "b94cc9646f52a2ca7d0226015ce0d994.wav"
       }
     ]
   }
