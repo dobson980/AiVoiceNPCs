@@ -4,10 +4,13 @@ plugins {
 
 repositories {
 	mavenLocal()
+	mavenCentral()
 	maven {
 		url = 'https://repo.runelite.net'
 	}
-	mavenCentral()
+	maven {
+		url 'https://jitpack.io'
+	}
 }
 
 def runeLiteVersion = 'latest.release'
@@ -17,10 +20,11 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok:1.18.20'
 
 	annotationProcessor 'org.projectlombok:lombok:1.18.20'
-
+	implementation 'javazoom:jlayer:1.0.1'
 	testImplementation 'junit:junit:4.12'
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
+
 }
 
 group = 'com.example'
