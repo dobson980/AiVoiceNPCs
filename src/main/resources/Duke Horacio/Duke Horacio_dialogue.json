@@ -1,0 +1,315 @@
+[
+  {
+    "npc": "Duke Horacio",
+    "dialogue": [
+      {
+        "text": "Greetings. Welcome to my castle.",
+        "audio_file": "1e430fe6471d174eb7f3dcfa5c2436de.wav"
+      },
+      {
+        "text": "A knight going on a dragon quest, hmm? What dragon do you intend to slay?",
+        "audio_file": "32d398dfdf6d1c92013f11201b64fb4a.wav"
+      },
+      {
+        "text": "Elvarg? Are you sure?",
+        "audio_file": "e560ab81db6343b8792666a60076ccce.wav"
+      },
+      {
+        "text": "Well, you're a braver man/woman than I!",
+        "audio_file": "af5d52380f23146ca719411aff0cde93.wav"
+      },
+      {
+        "text": "Back in my father's day, Crandor was an important city-state. Politically it was as important as Falador and Varrock and its ships traded with every port. But, one day, when I was little, all contact was lost. The trading ships and the diplomatic envoys just stopped coming. I remember my father being very scared. He posted lookouts on the roof to warn if the dragon was approaching. All the city rulers worried that Elvarg would devastate the whole continent.",
+        "audio_file": "c8f9b33dbaf01ff97b98809e78f44679.wav"
+      },
+      {
+        "text": "That's a relief. I would hate to see such a promising adventurer cut down in his/her prime.",
+        "audio_file": "982edd8c0edd30e0c8bfad041f5dc46b.wav"
+      },
+      {
+        "text": "If you really think you're up to it then perhaps you are the one who can kill this dragon.",
+        "audio_file": "644f39302785d19a341377baecad7b48.wav"
+      },
+      {
+        "text": "Take care out there. If you kill it...",
+        "audio_file": "9984058a95837465e6ff584a9b9e262b.wav"
+      },
+      {
+        "text": "If you kill it, for Saradomin's sake make sure it's really dead!",
+        "audio_file": "225a15b2df136e9194d931c2f0f798a8.wav"
+      },
+      {
+        "text": "Very wise. There are some monsters that are best left alone.",
+        "audio_file": "9d487a78e70f3b3c27448de608d97be6.wav"
+      },
+      {
+        "text": "I don't have an infinite supply of these shields, you know. I'll only give one for a truly worthy cause.",
+        "audio_file": "9c816f23c37ca4a6d0802356824e0627.wav"
+      },
+      {
+        "text": "Of course. Now you've slain Elvarg, you've earned the right to call the shield your own!",
+        "audio_file": "6e65c73665d59b91c11e771682c2fbc1.wav"
+      },
+      {
+        "text": "Well, it's not really a quest but I recently discovered this strange talisman.",
+        "audio_file": "e0ea1ae81b42dc0aa06983b971bf46ac.wav"
+      },
+      {
+        "text": "It seems to be mystical and I have never seen anything like it before. Would you take it to the head wizard at",
+        "audio_file": "70d2c3d18109605f1680bc63983ef491.wav"
+      },
+      {
+        "text": "the Wizards' Tower for me? It's just south-west of here and should not take you very long at all. I would be awfully grateful.",
+        "audio_file": "d06700778c5901ce606ff139d73469fe.wav"
+      },
+      {
+        "text": "Thank you very much, stranger. I am sure the head wizard will reward you for such an interesting find.",
+        "audio_file": "5e63588fb1393a49ef5f17ded823c57f.wav"
+      },
+      {
+        "text": "As you wish, stranger, although I have this strange feeling that it is important. Unfortunately, I cannot leave my castle unattended.",
+        "audio_file": "2b9122a7427918943b372e72bef65555.wav"
+      },
+      {
+        "text": "The only task remotely approaching a quest is the delivery of that talisman I gave you to the head wizard of the Wizards' Tower,",
+        "audio_file": "cece22c97cd3797d17d53479a320280f.wav"
+      },
+      {
+        "text": "south-west of here. I suggest you deliver it to him as soon as possible. I have the oddest feeling that it is important...",
+        "audio_file": "2e7f68e24efb1473fc584c901c8b2a08.wav"
+      },
+      {
+        "text": "Did you speak to the head wizard for me yet, adventurer?",
+        "audio_file": "7b2136f686ec6ad24b8f90125a1bdd8b.wav"
+      },
+      {
+        "text": "Ah, that would explain it. One of my servants found this outside, and it seemed too much of a coincidence that more than one strange",
+        "audio_file": "504439b8ab9985fb2ab1e88e5f346714.wav"
+      },
+      {
+        "text": "object would appear on my land in such a short period of time. Please take this to the head wizard at the Wizards' Tower, south-west of here, and don't lose it this time.",
+        "audio_file": "9046daef29e8f0bea175eb1ad0f9b6ed.wav"
+      },
+      {
+        "text": "No, all is well for me.",
+        "audio_file": "add0ab7639f43daf3d972dbb8fb88ed4.wav"
+      },
+      {
+        "text": "I've heard that the blacksmiths are prosperous amongst the peasantry. Maybe you could try your hand at that?",
+        "audio_file": "fbce231cbab06d0d11062c0a7052b735.wav"
+      },
+      {
+        "text": "Hello there, welcome to Lumbridge.",
+        "audio_file": "d9166902c125aec2c9b6315b4af7156f.wav"
+      },
+      {
+        "text": "A particularly harsh winter for Lumbridge this year. Still, we make the best of it. I hope all our new visitors aren't getting too cold.",
+        "audio_file": "a6bcf7b0c52c6685bcd79c320bd218ee.wav"
+      },
+      {
+        "text": "Oh yes, I know that.",
+        "audio_file": "7f79254b7a660835f20f7c87ca5b8656.wav"
+      },
+      {
+        "text": "Well... I do.",
+        "audio_file": "3522332a15fb309469cafa8ae4bd8d8d.wav"
+      },
+      {
+        "text": "Ah...",
+        "audio_file": "0a5b645b88bc81e8fcdbf68d02fdc2c4.wav"
+      },
+      {
+        "text": "Then doubly welcome you are to Lumbridge.",
+        "audio_file": "123b18fed41461fb4bfe16c2389c5540.wav"
+      },
+      {
+        "text": "Well... I may be able to help there.",
+        "audio_file": "ca6a50036db9eca0774721c73cd3baa0.wav"
+      },
+      {
+        "text": "I haven't seen you around much before, that's all.",
+        "audio_file": "8ba7a9f77ede5e3286a9c606818d4f45.wav"
+      },
+      {
+        "text": "I wonder if you might help me with a little project of mine?",
+        "audio_file": "abff8877a247124746d2e2c154c02b0e.wav"
+      },
+      {
+        "text": "Great! Thank you!",
+        "audio_file": "ad10428e0d561300c35d8c8c97f2281c.wav"
+      },
+      {
+        "text": "So, I have seen how much extra work the Lumbridge citizens are putting in recently, what with so many new adventurers in town. I'd like to give them something back.",
+        "audio_file": "ef6edba320c9d84feb484ab218f6918c.wav"
+      },
+      {
+        "text": "How did you know? But... I have to stay here in my room as I have so much paperwork to do.",
+        "audio_file": "f76bb1cd08b17888cdc2cfca91ccb4ff.wav"
+      },
+      {
+        "text": "Um. Not quite, but nearly!",
+        "audio_file": "156387e7d8204a4cbeeb853eb68afad0.wav"
+      },
+      {
+        "text": "Well, I don't want them to see you deliver it.",
+        "audio_file": "26d2b3aa5319009d6ecf2d6070aafadb.wav"
+      },
+      {
+        "text": "Well it kind of looks lazy on my part doesn't it. I'd like you to disguise yourself... as a tree.",
+        "audio_file": "429639d4ccb22c0e9b636cbbcfd199ff.wav"
+      },
+      {
+        "text": "Yes, a festive tree, as if I'd planted the tree near them and it's holding a present for them... isn't that a wonderful idea?",
+        "audio_file": "7536559a914d5fc2fbe08a47893ac763.wav"
+      },
+      {
+        "text": "How did you know?",
+        "audio_file": "1526887f0e8e8f51e718a4dea9bff675.wav"
+      },
+      {
+        "text": "Oh very good... leaving... well done.",
+        "audio_file": "2dd165f1c08cef57a7e04b566ee429ce.wav"
+      },
+      {
+        "text": "The snowy trees out there look so treemendously festive, you should use some of their branches to decorate them.",
+        "audio_file": "3f7130c86c4ac611326026a360165f18.wav"
+      },
+      {
+        "text": "Oh no, no, no. I think you'll be able to find something star like to put on your head, maybe from the church?",
+        "audio_file": "f9b897d60a30130101e35718b5a04a23.wav"
+      },
+      {
+        "text": "The snowy trees out there look so treemendously festive, you should just use some of their branches, but leave the big one alone. Just take something sharp to them. A knife or some shears should do the job.",
+        "audio_file": "6ae2c36bd13cdad8ec1c9346039b9c35.wav"
+      },
+      {
+        "text": "Stick with it, it'll soon be over.",
+        "audio_file": "210036e7a0c8f9b1b8cb7bcbeb6c8b0a.wav"
+      },
+      {
+        "text": "Well, not out of my crown! Get it? Crown?",
+        "audio_file": "7aaa31ea160384d411788444a1a515c7.wav"
+      },
+      {
+        "text": "OH ok, have it your way. I noticed a barrel of old waste material near the furnace. You should be able to find some there. Oh, and don't forget you can probably borrow a star from the church.",
+        "audio_file": "1b707641e27c85218732538e579e7871.wav"
+      },
+      {
+        "text": "Well, thread is too light and rope is too heavy for this job... You could try some wool?",
+        "audio_file": "4a765645360fadd14d21e6ed830e2a21.wav"
+      },
+      {
+        "text": "To deliver my presents of course!",
+        "audio_file": "14e03f84cb2c14d80a8add0827a20680.wav"
+      },
+      {
+        "text": "Hey, I have a town to run, it's not all it's cracked up to be you know.",
+        "audio_file": "1b68dc752c7b22744521bc5bb388dbfc.wav"
+      },
+      {
+        "text": "How very pithy of you. It wasn't meant to be a pun!",
+        "audio_file": "81bed51e96bd2e68b6b70675e8fcee37.wav"
+      },
+      {
+        "text": "I see you've got your disguise sorted out, you really should wear it for it to be effective though.",
+        "audio_file": "f18e0c40dee8fee734ad8d171b5fb3fd.wav"
+      },
+      {
+        "text": "Is that tree talking to me? I must be ill.",
+        "audio_file": "0b073403752b6f3955a1191e435beb54.wav"
+      },
+      {
+        "text": "And there was me thinking that yew wouldn't have made something that convincing.",
+        "audio_file": "c3afec1e82c431afe49fd14bc440758a.wav"
+      },
+      {
+        "text": "Here, I've written it all down for you.",
+        "audio_file": "c343ba26d16ca2f41432024aafceb892.wav"
+      },
+      {
+        "text": "How goes the job of Santa?",
+        "audio_file": "f83ca5b13ffe2c49a1f2ad68b2f4b024.wav"
+      },
+      {
+        "text": "Ah Hans, loyal to a fault. He walks the castle grounds all day, everyday. He really could do with a sit down, don't you think? Take my chair, just over there.",
+        "audio_file": "1f1aa52e5412c93e101b1f03a5cbf92e.wav"
+      },
+      {
+        "text": "Count Check... he's a bit of an odd one isn't he? He's obsesed[sic] with counting. He loves counting, especially shiny things. The other day I was chatting to him and he was completely unable to take his eyes off the golden rings on my fingers. Perhaps he'd like some of those. However, they're not normal gold rings, like you would make. These I get specially from the apprentice near the furnace.",
+        "audio_file": "e3cc032e15dc5729746591e524e52193.wav"
+      },
+      {
+        "text": "The lovely Gillie. Such pure white milk she brings us daily. But she is so run off her feet. She often suggests that we should find a magic spell to duplicate her! What a notion. I'm surprised we don't hear the same complaints from Bob.",
+        "audio_file": "bb3ed7c1edf0c13bd656e03219e529bb.wav"
+      },
+      {
+        "text": "Fred? Such a wholesome farmer. He does his job with the chickens and cows well. However, it wasn't his first choice of profession. He wanted to grow fruit trees you know. The one planted in the castle grounds sure did catch his eye.",
+        "audio_file": "a04d0f28568a1ffdfa9f2eaebe69563e.wav"
+      },
+      {
+        "text": "He's so gloomy, everything is doom doom doom. He needs some light entertainment. I heard he used to be a friend of Party Pete, in Falador, maybe ask him.",
+        "audio_file": "603cd06c622fd1cd95982b1f77a7ae34.wav"
+      },
+      {
+        "text": "Well, you're a braver man than I!",
+        "audio_file": "009b792ff96d73895d4d41ef8fb0e5d1.wav"
+      },
+      {
+        "text": "Back in my father's day, Crandor was an important city-state. Politically, it was as important as Falador or Varrock and its ships traded with every port.",
+        "audio_file": "5f397294bac04840babdf0cb7e93561c.wav"
+      },
+      {
+        "text": "But, one day when I was little, all contact was lost. The trading ships and the diplomatic envoys just stopped coming.",
+        "audio_file": "e6bc273127193fc2deaf24dd1c95f852.wav"
+      },
+      {
+        "text": "I remember my father being very scared. He posted lookouts on the roof to warn if the dragon was approaching. All the city rulers were worried that Elvarg would devastate the whole continent.",
+        "audio_file": "830f3c2fe79a0a92fda49a97d7253106.wav"
+      },
+      {
+        "text": "That's a relief. I would hate to see such a promising adventurer cut down in his prime.",
+        "audio_file": "15146889424af4c8d194c78e9c841102.wav"
+      },
+      {
+        "text": "Well, I wouldn't describe it as a quest, but there is something I could use some help with.",
+        "audio_file": "35625b31dac957c930c993eaa4795940.wav"
+      },
+      {
+        "text": "We were recently sorting through some of the things stored down in the cellar, and we found this old talisman.",
+        "audio_file": "9a110f9b875a7062c60393ee5047937e.wav"
+      },
+      {
+        "text": "The Order of Wizards over at the Wizards' Tower have been on the hunt for magical artefacts recently. I wonder if this might be just the kind of thing they're after.",
+        "audio_file": "8e52051331e7c0f4c939b323e31b4a45.wav"
+      },
+      {
+        "text": "Would you be willing to take it to them for me?",
+        "audio_file": "3753a1c2b85205c6ebaccddedcc54200.wav"
+      },
+      {
+        "text": "Thank you very much. You'll find the Wizards' Tower south west of here, across the bridge from Draynor Village. When you arrive, look for Sedridor. He is the Archmage of the wizards there.",
+        "audio_file": "a115726dd505b10a1a7206a6b6913742.wav"
+      },
+      {
+        "text": "As you wish. Hopefully I can find someone else to help.",
+        "audio_file": "6f3f821071535c945e6fffe0c29ea8f9.wav"
+      },
+      {
+        "text": "Did you take that talisman to Sedridor?",
+        "audio_file": "63ace2cf8ffcfb37b738d97b4111efbc.wav"
+      },
+      {
+        "text": "Ah, well that explains things. One of my servants found it outside, and it seemed too much of a coincidence that another would suddenly show up.",
+        "audio_file": "ae8e901fca1d376f75a619b41012af5c.wav"
+      },
+      {
+        "text": "Here, take it to the Wizards' Tower, south west of here. Please try not to lose it this time.",
+        "audio_file": "2478576a7d1545cbbe63ee3dd171bb4f.wav"
+      },
+      {
+        "text": "Take that talisman I gave you to Sedridor at the Wizards' Tower. You'll find it south west of here, across the bridge from Draynor Village.",
+        "audio_file": "b946f3701d9ed6e53e743b21c5211cf0.wav"
+      }
+    ]
+  }
+]

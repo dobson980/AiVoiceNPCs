@@ -1,0 +1,310 @@
+Duke Horacio: Greetings. Welcome to my castle.
+(If the player does not have an anti-dragon shield:) I seek a shield that will protect me from dragonbreath.
+Player: I seek a shield that will protect me from dragonbreath.
+Duke Horacio: A knight going on a dragon quest, hmm? What dragon do you intend to slay?
+Select an Option
+(During Dragon Slayer I:) Elvarg, the dragon of Crandor island!
+Player: Elvarg, the dragon of Crandor island!
+Duke Horacio: Elvarg? Are you sure?
+Well, are you sure?
+Yes.
+Player: Yes.
+Duke Horacio: Well, you're a braver man/woman than I!
+Player: Why is everyone so scared of this dragon?
+Duke Horacio: Back in my father's day, Crandor was an important city-state. Politically it was as important as Falador and Varrock and its ships traded with every port. But, one day, when I was little, all contact was lost. The trading ships and the diplomatic envoys just stopped coming. I remember my father being very scared. He posted lookouts on the roof to warn if the dragon was approaching. All the city rulers worried that Elvarg would devastate the whole continent.
+I'd better leave that dragon alone.
+Player: I'd better leave that dragon alone.
+Duke Horacio: That's a relief. I would hate to see such a promising adventurer cut down in his/her prime.
+(End of dialogue)
+So, are you going to give me the shield or not?
+Player: So, are you going to give me the shield or not?
+Duke Horacio: If you really think you're up to it then perhaps you are the one who can kill this dragon.
+The Duke hands you a heavy orange shield.
+(Player receives Anti-dragon shield.)
+Duke Horacio: Take care out there. If you kill it...
+Duke Horacio: If you kill it, for Saradomin's sake make sure it's really dead!
+(End of dialogue)
+No.
+Duke Horacio: Very wise. There are some monsters that are best left alone.
+(End of dialogue)
+Oh, no dragon in particular
+Player: Oh, no dragon in particular. I just feel like killing a dragon.
+If the player has not finished Dragon Slayer I:
+Duke Horacio: I don't have an infinite supply of these shields, you know. I'll only give one for a truly worthy cause.
+(End of dialogue)
+If the player has finished Dragon Slayer I:
+Player: Oh, no dragon in particular. I just feel like killing a dragon.
+Duke Horacio: Of course. Now you've slain Elvarg, you've earned the right to call the shield your own!
+The Duke hands you the shield.
+(Player receives Anti-dragon shield.)
+(End of dialogue)
+Have you any quests for me?
+Player: Have you any quests for me?
+Before starting the Rune Mysteries quest.
+Duke Horacio: Well, it's not really a quest but I recently discovered this strange talisman.
+Duke Horacio: It seems to be mystical and I have never seen anything like it before. Would you take it to the head wizard at
+Duke Horacio: the Wizards' Tower for me? It's just south-west of here and should not take you very long at all. I would be awfully grateful.
+Yes.
+Player: Sure, no problem.
+Duke Horacio: Thank you very much, stranger. I am sure the head wizard will reward you for such an interesting find.
+(Player receives air talisman.)
+The Duke hands you an air talisman.
+(End of dialogue)
+No.
+Player: Not right now.
+Duke Horacio: As you wish, stranger, although I have this strange feeling that it is important. Unfortunately, I cannot leave my castle unattended.
+(End of dialogue)
+After starting the Rune Mysteries quest and still having the talisman.
+Duke Horacio: The only task remotely approaching a quest is the delivery of that talisman I gave you to the head wizard of the Wizards' Tower,
+Duke Horacio: south-west of here. I suggest you deliver it to him as soon as possible. I have the oddest feeling that it is important...
+(End of dialogue)
+After starting the Rune Mysteries quest and having lost the talisman.
+Duke Horacio: Did you speak to the head wizard for me yet, adventurer?
+Player: No, I lost that air talisman that you gave me.
+Duke Horacio: Ah, that would explain it. One of my servants found this outside, and it seemed too much of a coincidence that more than one strange
+Duke Horacio: object would appear on my land in such a short period of time. Please take this to the head wizard at the Wizards' Tower, south-west of here, and don't lose it this time.
+(Player receives air talisman.)
+The Duke hands you an air talisman.
+(End of dialogue)
+After giving the talisman to Sedridor.
+Duke Horacio: No, all is well for me.
+(End of dialogue)
+Where can I find money?
+Player: Where can I find money?
+Duke Horacio: I've heard that the blacksmiths are prosperous amongst the peasantry. Maybe you could try your hand at that?
+(End of dialogue)
+During the 2018 Christmas event
+Initial conversation
+If this is the first time talking to Duke Horacio:
+Duke Horacio: Hello there, welcome to Lumbridge.
+If the player has talked to Duke Horacio before:
+Duke Horacio: Greetings. Welcome to my castle.
+Talk about Lumbridge holiday event.
+Player: What's with all the snow?
+Duke Horacio: A particularly harsh winter for Lumbridge this year. Still, we make the best of it. I hope all our new visitors aren't getting too cold.
+If the player has spent less than 1 hour in the game:
+I'm not new!
+Player: I'm not new!
+Duke Horacio: Oh yes, I know that.
+(Transcript missing. edit)
+Who cares about them?
+Player: Who cares about them?
+Duke Horacio: Well... I do.
+(Transcript missing. edit)
+What do you need?
+Player: What do you need?
+Duke Horacio: Ah...
+(Transcript missing. edit)
+If the player has spent more than 1 hour in the game:
+I'm ok, though I am new around town.
+Player: I'm ok, though I am new around town.
+Duke Horacio: Then doubly welcome you are to Lumbridge.
+(Transcript missing. edit)
+Actually yes, I am rather cold.
+Player: Actually yes, I am rather cold.
+Duke Horacio: Well... I may be able to help there.
+(Transcript missing. edit)
+Who are you calling new?
+Player: Who are you calling new?
+Duke Horacio: I haven't seen you around much before, that's all.
+Duke Horacio: I wonder if you might help me with a little project of mine?
+Yes, I can help.
+Player: Yes, I can help.
+Duke Horacio: Great! Thank you!
+Duke Horacio: So, I have seen how much extra work the Lumbridge citizens are putting in recently, what with so many new adventurers in town. I'd like to give them something back.
+Player: And here comes the but...
+Duke Horacio: How did you know? But... I have to stay here in my room as I have so much paperwork to do.
+Player: So I'm delivering the presents? I get to be Santa?
+Duke Horacio: Um. Not quite, but nearly!
+Player: What do you mean... not quite?
+Duke Horacio: Well, I don't want them to see you deliver it.
+Player: What? Why? How?
+Duke Horacio: Well it kind of looks lazy on my part doesn't it. I'd like you to disguise yourself... as a tree.
+Player: A TREE?
+Duke Horacio: Yes, a festive tree, as if I'd planted the tree near them and it's holding a present for them... isn't that a wonderful idea?
+Player: If by wonderful you mean awful... I suppose you want me to cut bits off trees and stick them to myself and decorate it with something shiny?
+Duke Horacio: How did you know?
+Player: I'm leaving now.
+Duke Horacio: Oh very good... leaving... well done.
+(End of dialogue)
+(Transcript missing - Unknown other options edit)
+(Non-event dialogue) Talk about something else.
+Subsequent conversations
+Duke Horacio: Greetings. Welcome to my castle.
+Talk about Lumbridge holiday event.
+Duke Horacio: The snowy trees out there look so treemendously festive, you should use some of their branches to decorate them.
+Player: What about a decoration on top, I don't want to be involved with creepy dolls again.
+Duke Horacio: Oh no, no, no. I think you'll be able to find something star like to put on your head, maybe from the church?
+Where do I get the tree branches from?
+Player: Where do I get the tree branches from?
+Duke Horacio: The snowy trees out there look so treemendously festive, you should just use some of their branches, but leave the big one alone. Just take something sharp to them. A knife or some shears should do the job.
+Player: I don't think I can take anymore puns.
+Duke Horacio: Stick with it, it'll soon be over.
+Where do I get the decoration?
+Player: Where do I get the decoration?
+Duke Horacio: Well, not out of my crown! Get it? Crown?
+Player: Must not react to pun...
+Duke Horacio: OH ok, have it your way. I noticed a barrel of old waste material near the furnace. You should be able to find some there. Oh, and don't forget you can probably borrow a star from the church.
+How do I put it all together?
+Player: How do I put it all together?
+Duke Horacio: Well, thread is too light and rope is too heavy for this job... You could try some wool?
+Why do I need it again?
+Player: Why do I need it again?
+Duke Horacio: To deliver my presents of course!
+Player: Oh yeah... you're too busy to do it yourself and don't want them to know that I did it. Pretty poor excuse.
+Duke Horacio: Hey, I have a town to run, it's not all it's cracked up to be you know.
+Player: That was an egg pun, wrong holiday.
+Duke Horacio: How very pithy of you. It wasn't meant to be a pun!
+No thanks, bye.
+Player: No thanks, bye.
+(End of dialogue)
+(Non-event dialogue) Talk about something else.
+After making the Christmas tree costume
+If not wearing the costume
+Duke Horacio: Greetings. Welcome to my castle.
+Talk about Lumbridge holiday event.
+Duke Horacio: I see you've got your disguise sorted out, you really should wear it for it to be effective though.
+(End of dialogue)
+(Non-event dialogue) Talk about something else.
+If wearing the costume
+Duke Horacio: Greetings. Welcome to my castle.
+Talk about Lumbridge holiday event.
+Duke Horacio: Is that tree talking to me? I must be ill.
+Player: It's me, Player!
+Duke Horacio: And there was me thinking that yew wouldn't have made something that convincing.
+Player: So what do I have to do?
+Duke Horacio: Here, I've written it all down for you.
+Duke Horacio hands you a neatly written list.
+(Lumbridge task list shows.)
+(Non-event dialogue) Talk about something else.
+Subsequent conversations
+Duke Horacio: Greetings. Welcome to my castle.
+Talk about Lumbridge holiday event.
+If no progress has been made:
+Player: So what do I have to do?
+Duke Horacio: Here, I've written it all down for you.
+Lumbridge task list shows.
+If some progress has been made:
+Duke Horacio: How goes the job of Santa?
+Player: I've made some progress. But I have some questions.
+Lumbridge task list shows.
+(Non-event dialogue) Talk about something else.
+Questions about the list
+I have questions about:
+Present for Hans.
+Duke Horacio: Ah Hans, loyal to a fault. He walks the castle grounds all day, everyday. He really could do with a sit down, don't you think? Take my chair, just over there.
+Present for Count Check.
+Duke Horacio: Count Check... he's a bit of an odd one isn't he? He's obsesed[sic] with counting. He loves counting, especially shiny things. The other day I was chatting to him and he was completely unable to take his eyes off the golden rings on my fingers. Perhaps he'd like some of those. However, they're not normal gold rings, like you would make. These I get specially from the apprentice near the furnace.
+Present for Gillie.
+Duke Horacio: The lovely Gillie. Such pure white milk she brings us daily. But she is so run off her feet. She often suggests that we should find a magic spell to duplicate her! What a notion. I'm surprised we don't hear the same complaints from Bob.
+Present for Farmer Fred.
+Duke Horacio: Fred? Such a wholesome farmer. He does his job with the chickens and cows well. However, it wasn't his first choice of profession. He wanted to grow fruit trees you know. The one planted in the castle grounds sure did catch his eye.
+Present for Doom Sayer.
+Duke Horacio: He's so gloomy, everything is doom doom doom. He needs some light entertainment. I heard he used to be a friend of Party Pete, in Falador, maybe ask him.
+Nothing.
+Talking to Duke Horacio
+Duke Horacio: Greetings. Welcome to my castle.
+Select an Option
+I seek a shield that will protect me from dragonbreath.
+Player: I seek a shield that will protect me from dragonbreath.
+Duke Horacio: A knight going on a dragon quest, hmm? What dragon do you intend to slay?
+Select an Option
+Elvarg, the dragon of Crandor island!
+Player: Elvarg, the dragon of Crandor island!
+Duke Horacio: Elvarg? Are you sure?
+Well, are you sure?
+Yes
+Player: Yes!
+Duke Horacio: Well, you're a braver man than I!
+Player: Why is everyone so scared of this dragon?
+Duke Horacio: Back in my father's day, Crandor was an important city-state. Politically, it was as important as Falador or Varrock and its ships traded with every port.
+Duke Horacio: But, one day when I was little, all contact was lost. The trading ships and the diplomatic envoys just stopped coming.
+Duke Horacio: I remember my father being very scared. He posted lookouts on the roof to warn if the dragon was approaching. All the city rulers were worried that Elvarg would devastate the whole continent.
+Select an Option
+I'd better leave that dragon alone.
+Player: I'd better leave that dragon alone.
+Duke Horacio: That's a relief. I would hate to see such a promising adventurer cut down in his prime.
+(End of dialogue)
+So, are you going to give me the shield or not?
+Player: So, are you going to give me the shield or not?
+Duke Horacio: If you really think you're up to it then perhaps you are the one who can kill this dragon.
+Anti-dragon shield detail.pngThe Duke hands you a heavy orange shield.
+Duke Horacio: Take care out there. If you kill it...
+Duke Horacio: If you kill it, for Saradomin's sake make sure it's really dead!
+(End of dialogue)
+No
+Player: No.
+Duke Horacio: Very wise. There are some monsters that are best left alone.
+(End of dialogue)
+Oh, no dragon in particular
+Player: Oh, no dragon in particular. I just feel like killing a dragon.
+Duke Horacio: I don't have an infinite supply of these shields, you know. I'll only give one for a truly worthy cause.
+(End of dialogue)
+Talking to Duke Horacio
+Duke Horacio: Greetings. Welcome to my castle.
+Have you any quests for me?
+Player: Have you any quests for me?
+Duke Horacio: Well, I wouldn't describe it as a quest, but there is something I could use some help with.
+Player: What is it?
+Duke Horacio: We were recently sorting through some of the things stored down in the cellar, and we found this old talisman.
+The Duke shows you a talisman.
+Duke Horacio: The Order of Wizards over at the Wizards' Tower have been on the hunt for magical artefacts recently. I wonder if this might be just the kind of thing they're after.
+Duke Horacio: Would you be willing to take it to them for me?
+Yes.
+Player: Sure, no problem.
+Duke Horacio: Thank you very much. You'll find the Wizards' Tower south west of here, across the bridge from Draynor Village. When you arrive, look for Sedridor. He is the Archmage of the wizards there.
+The Duke hands you the talisman.
+(End of dialogue)
+No.
+Player: Not right now.
+Duke Horacio: As you wish. Hopefully I can find someone else to help.
+(End of dialogue)
+(Non-quest dialogue) Where can I find money?
+Talking to Duke Horacio again
+Duke Horacio: Greetings. Welcome to my castle.
+What did you want me to do again?
+Player: What did you want me to do again?
+If the player lost the talisman:
+Player: What did you want me to do again?
+Duke Horacio: Did you take that talisman to Sedridor?
+Player: No, I lost it.
+Duke Horacio: Ah, well that explains things. One of my servants found it outside, and it seemed too much of a coincidence that another would suddenly show up.
+Duke Horacio: Here, take it to the Wizards' Tower, south west of here. Please try not to lose it this time.
+The Duke hands you the talisman.
+(End of dialogue)
+If the player has the talisman:
+Duke Horacio: Take that talisman I gave you to Sedridor at the Wizards' Tower. You'll find it south west of here, across the bridge from Draynor Village.
+Player: Okay, will do.
+(End of dialogue)
+Talking to Duke Horacio
+Duke Horacio: Greetings. Welcome to my castle.
+Have you any quests for me?
+Player: Have you any quests for me?
+Duke Horacio: Well, it's not really a quest but I recently discovered this strange talisman.
+Duke Horacio: It seems to be mystical and I have never seen anything like it before. Would you take it to the head wizard at
+Duke Horacio: the Wizards' Tower for me? It's just south-west of here and should not take you very long at all. I would be awfully grateful.
+Yes.
+Player: Sure, no problem.
+Duke Horacio: Thank you very much, stranger. I am sure the head wizard will reward you for such an interesting find.
+The Duke hands you an air talisman.
+(End of dialogue)
+No.
+Player: Not right now.
+Duke Horacio: As you wish, stranger, although I have this strange feeling that it is important. Unfortunately, I cannot leave my castle unattended.
+(End of dialogue)
+(Non-quest dialogue) Where can I find money?
+Talking to Duke Horacio again
+Duke Horacio: Greetings. Welcome to my castle.
+Have you any quests for me?
+Player: Have you any quests for me?
+If the player lost the talisman:
+Player: Have you any quests for me?
+Duke Horacio: Did you speak to the head wizard for me yet, adventurer?
+Player: No, I lost that talisman that you gave me.
+Duke Horacio: Ah, that would explain it. One of my servants found this outside, and it seemed too much of a coincidence that more than one strange
+Duke Horacio: object would appear on my land in such a short period of time. Please take this to the head wizard at the Wizards' Tower, south-west of here, and don't lose it this time.
+The Duke hands you the talisman.
+(End of dialogue)
+If the player has the talisman:
+Duke Horacio: The only task remotely approaching a quest is the delivery of that talisman I gave you to the head wizard of the Wizards' Tower,
+Duke Horacio: south-west of here. I suggest you deliver it to him as soon as possible. I have the oddest feeling that it is important...
